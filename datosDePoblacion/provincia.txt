@@ -1,0 +1,100 @@
+1,Norrie,1
+2,Johnson,2
+3,Combine,3
+4,Plumwood,4
+5,Varnado,5
+6,North Edwards,6
+7,Bodega Bay,7
+8,Honomu,8
+9,Dutton,9
+10,Maricao,10
+11,Lumberport,11
+12,Potomac Park,12
+13,Deer Trail,13
+14,Hutto,14
+15,Winthrop Harbor,15
+16,Niederwald,16
+17,Sabetha,17
+18,Centerport,18
+19,Garden Home,19
+20,Mountain Ranch,20
+21,East Berlin,21
+22,Doe Run,22
+23,Nelsonville,23
+24,Hidden Spring,24
+25,Rising Sun,25
+26,Weeki Wachee Gardens,26
+27,Subiaco,27
+28,Luis Lopez,28
+29,St. Onge,29
+30,Marble Rock,30
+31,McRae,31
+32,Tecumseh,32
+33,Hartwell,33
+34,Ohioville,34
+35,Duboistown,35
+36,Aripeka,36
+37,Sacaton,37
+38,Vickery,38
+39,Emerald Isle,39
+40,Morganton,40
+41,New Suffolk,41
+42,Covington,42
+43,Hasson Heights,43
+44,Pequot Lakes,44
+45,La Vergne,45
+46,Bostonia,46
+47,North Logan,47
+48,Hume,48
+49,De Motte,49
+50,Somerdale,50
+51,Ridgeville Corners,51
+52,Edie,52
+53,North Plains,53
+54,White Stone,54
+55,Buchanan,55
+56,Fort Ransom,56
+57,Nehawka,57
+58,Discovery Bay,58
+59,Mokuleia,59
+60,Oelrichs,60
+61,Munich,61
+62,Chippewa Falls,62
+63,Van Dyne,63
+64,Beavercreek,64
+65,Lompico,65
+66,Pecos,66
+67,Espanola,67
+68,Freewater,68
+69,Congers,69
+70,Adak,70
+71,Daingerfield,71
+72,Soldiers Grove,72
+73,Holloman,73
+74,Calzada,74
+75,Pachuta,75
+76,Arley,76
+77,Astoria,77
+78,Spring,78
+79,Weldon,79
+80,Juncos,80
+81,Cass,81
+82,Addison,82
+83,Herman,83
+84,Port Orange,84
+85,Tybee Island,85
+86,Pierz,86
+87,Bithlo,87
+88,German Valley,88
+89,Urania,89
+90,Heil,90
+91,Munfordville,91
+92,Pampa,92
+93,Lake Marcel,93
+94,Burien,94
+95,Pine Island,95
+96,St. Augustine Shores,96
+97,Waltonville,97
+98,Woodside East,98
+99,Martensdale,99
+100,Cool,100
