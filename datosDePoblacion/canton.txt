@@ -23,78 +23,28 @@
 23,Pipestone,23
 24,Schoharie,24
 25,Linn,25
-26,Fernando Salinas,26
-27,Pinewood,27
-28,Cumberland,28
-29,Drexel,29
-30,La Luisa,30
-31,Goodsprings,31
-32,New Site,32
-33,Avondale Estates,33
-34,Tomball,34
-35,Bayport,35
-36,Cullowhee,36
-37,Godwin,37
-38,St. James,38
-39,Oyens,39
-40,Prairie Ridge,40
-41,North Redington Beach,41
-42,Wann,42
-43,Russellville,43
-44,Coto de Caza,44
-45,Wynot,45
-46,St. Anthony,46
-47,Rushford Village,47
-48,Purdy,48
-49,Bellmead,49
-50,Lowgap,50
-51,Lake Angelus,51
-52,Lookout,52
-53,Sugar Land,53
-54,Cloverport,54
-55,Dragoon,55
-56,Cambria,56
-57,LaSalle,57
-58,Charlestown,58
-59,Fair Grove,59
-60,Mowbray Mountain,60
-61,Simi Valley,61
-62,Lago Vista,62
-63,Wakita,63
-64,Johnsville,64
-65,La Cueva,65
-66,Hana,66
-67,Lenape Heights,67
-68,South Barrington,68
-69,Hampton Bays,69
-70,Benbrook,70
-71,Storrie,71
-72,White Cloud,72
-73,Mar-Mac,73
-74,Fairmont City,74
-75,Flying Hills,75
-76,Guion,76
-77,Ballantine,77
-78,Binghamton,78
-79,Hasty,79
-80,Black Oak,80
-81,Peever,81
-82,Whitehaven,82
-83,Round Hill Village,83
-84,Silver Creek,84
-85,Dardenne Prairie,85
-86,Geiger,86
-87,Penn Estates,87
-88,Paxson,88
-89,Rodman,89
-90,Dorrance,90
-91,Opelousas,91
-92,Buckholts,92
-93,Leisure Village West,93
-94,Cottage Lake,94
-95,Haydenville,95
-96,Banks Lake South,96
-97,Marienville,97
-98,Log Lane Village,98
-99,Big Thicket Lake Estates,99
-100,Lorena,100
+26,Fernando Salinas,1
+27,Pinewood,2
+28,Cumberland,3
+29,Drexel,4
+30,La Luisa,5
+31,Goodsprings,6
+32,New Site,7
+33,Avondale Estates,8
+34,Tomball,9
+35,Bayport,10
+36,Cullowhee,11
+37,Godwin,12
+38,St. James,13
+39,Oyens,14
+40,Prairie Ridge,15
+41,North Redington Beach,16
+42,Wann,17
+43,Russellville,18
+44,Coto de Caza,19
+45,Wynot,20
+46,St. Anthony,21
+47,Rushford Village,22
+48,Purdy,23
+49,Bellmead,24
+50,Lowgap,25
