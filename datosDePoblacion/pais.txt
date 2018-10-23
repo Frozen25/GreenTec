@@ -1,13 +1,13 @@
-1,Comoros
-2,Panama
-3,Kuwait
-4,Norway
-5,Turkey
-6,Iran
-7,Myanmar
-8,Andorra
-9,Montenegro
-10,Saudi Arabia
-11,Central African Republic
-12,Nauru
-13,Libya
+1,'Marshall Islands'
+2,'Mongolia'
+3,'Dominican Republic'
+4,'Switzerland'
+5,'Somalia'
+6,'Iceland'
+7,'Senegal'
+8,'Hungary'
+9,'Bosnia and Herzegovina'
+10,'Lithuania'
+11,'Bahrain'
+12,'Luxembourg'
+13,'Mexico'

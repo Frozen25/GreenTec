@@ -1,0 +1,5 @@
+1,'Carnivoro',1
+2,'Herbivoro',1
+3,'Omnivoro',1
+4,'Cristal',3
+5,'Roca',3
