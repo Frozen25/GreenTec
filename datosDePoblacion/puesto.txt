@@ -1,0 +1,4 @@
+1,'Gestion'
+2,'Vigilancia'
+3,'Investigador'
+4,'Conservacion'

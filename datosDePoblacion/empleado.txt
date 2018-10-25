@@ -1,0 +1,2500 @@
+1,1,1,3849,1,'1'
+2,1,2,3465,1,'2'
+3,2,3,2694,1,NULL
+4,2,4,4640,1,NULL
+5,2,5,2935,1,NULL
+6,2,6,2635,1,NULL
+7,2,7,3416,1,NULL
+8,3,8,4452,1,'Licenciatura en Zoologia'
+9,3,9,2896,1,'Bachillerato en Botanica'
+10,3,10,2659,1,'Doctorado en Vida Marina'
+11,4,11,2859,1,'Mantenimiento de Rutas'
+12,4,12,4690,1,'Conservacion de Habitat Animal'
+13,4,13,3160,1,'Mantenimiento de Instalaciones'
+14,4,14,3974,1,'Mantenimiento de Rutas'
+15,4,15,4448,1,'Conservacion de Habitat Animal'
+16,4,16,3538,1,'Mantenimiento de Instalaciones'
+17,4,17,4130,1,'Mantenimiento de Rutas'
+18,4,18,2743,1,'Conservacion de Habitat Animal'
+19,4,19,3347,1,'Mantenimiento de Instalaciones'
+20,4,20,2686,1,'Mantenimiento de Rutas'
+21,4,21,4951,1,'Conservacion de Habitat Animal'
+22,4,22,4103,1,'Mantenimiento de Instalaciones'
+23,4,23,3396,1,'Mantenimiento de Rutas'
+24,4,24,3584,1,'Conservacion de Habitat Animal'
+25,4,25,4232,1,'Mantenimiento de Instalaciones'
+26,1,26,3090,2,'1'
+27,1,27,4966,2,'2'
+28,2,28,4835,2,NULL
+29,2,29,4205,2,NULL
+30,2,30,3557,2,NULL
+31,2,31,4399,2,NULL
+32,2,32,2962,2,NULL
+33,3,33,3406,2,'Licenciatura en Zoologia'
+34,3,34,4424,2,'Bachillerato en Botanica'
+35,3,35,4886,2,'Doctorado en Vida Marina'
+36,4,36,3807,2,'Mantenimiento de Rutas'
+37,4,37,4718,2,'Conservacion de Habitat Animal'
+38,4,38,3098,2,'Mantenimiento de Instalaciones'
+39,4,39,3922,2,'Mantenimiento de Rutas'
+40,4,40,4087,2,'Conservacion de Habitat Animal'
+41,4,41,3868,2,'Mantenimiento de Instalaciones'
+42,4,42,4172,2,'Mantenimiento de Rutas'
+43,4,43,2796,2,'Conservacion de Habitat Animal'
+44,4,44,3827,2,'Mantenimiento de Instalaciones'
+45,4,45,3580,2,'Mantenimiento de Rutas'
+46,4,46,3994,2,'Conservacion de Habitat Animal'
+47,4,47,3412,2,'Mantenimiento de Instalaciones'
+48,4,48,4301,2,'Mantenimiento de Rutas'
+49,4,49,3048,2,'Conservacion de Habitat Animal'
+50,4,50,4590,2,'Mantenimiento de Instalaciones'
+51,1,51,3169,3,'1'
+52,1,52,2945,3,'2'
+53,2,53,3825,3,NULL
+54,2,54,3549,3,NULL
+55,2,55,4722,3,NULL
+56,2,56,2524,3,NULL
+57,2,57,3982,3,NULL
+58,3,58,4964,3,'Licenciatura en Zoologia'
+59,3,59,4563,3,'Bachillerato en Botanica'
+60,3,60,4837,3,'Doctorado en Vida Marina'
+61,4,61,3897,3,'Mantenimiento de Rutas'
+62,4,62,2871,3,'Conservacion de Habitat Animal'
+63,4,63,3371,3,'Mantenimiento de Instalaciones'
+64,4,64,4623,3,'Mantenimiento de Rutas'
+65,4,65,4125,3,'Conservacion de Habitat Animal'
+66,4,66,2507,3,'Mantenimiento de Instalaciones'
+67,4,67,3683,3,'Mantenimiento de Rutas'
+68,4,68,3038,3,'Conservacion de Habitat Animal'
+69,4,69,3984,3,'Mantenimiento de Instalaciones'
+70,4,70,3465,3,'Mantenimiento de Rutas'
+71,4,71,4154,3,'Conservacion de Habitat Animal'
+72,4,72,2858,3,'Mantenimiento de Instalaciones'
+73,4,73,2811,3,'Mantenimiento de Rutas'
+74,4,74,3842,3,'Conservacion de Habitat Animal'
+75,4,75,4949,3,'Mantenimiento de Instalaciones'
+76,1,76,3600,4,'1'
+77,1,77,4726,4,'2'
+78,2,78,2741,4,NULL
+79,2,79,2789,4,NULL
+80,2,80,2896,4,NULL
+81,2,81,4612,4,NULL
+82,2,82,4897,4,NULL
+83,3,83,3369,4,'Licenciatura en Zoologia'
+84,3,84,3256,4,'Bachillerato en Botanica'
+85,3,85,4266,4,'Doctorado en Vida Marina'
+86,4,86,3557,4,'Mantenimiento de Rutas'
+87,4,87,4352,4,'Conservacion de Habitat Animal'
+88,4,88,3195,4,'Mantenimiento de Instalaciones'
+89,4,89,3449,4,'Mantenimiento de Rutas'
+90,4,90,3692,4,'Conservacion de Habitat Animal'
+91,4,91,3601,4,'Mantenimiento de Instalaciones'
+92,4,92,4041,4,'Mantenimiento de Rutas'
+93,4,93,3385,4,'Conservacion de Habitat Animal'
+94,4,94,3207,4,'Mantenimiento de Instalaciones'
+95,4,95,4544,4,'Mantenimiento de Rutas'
+96,4,96,4329,4,'Conservacion de Habitat Animal'
+97,4,97,4028,4,'Mantenimiento de Instalaciones'
+98,4,98,3209,4,'Mantenimiento de Rutas'
+99,4,99,3066,4,'Conservacion de Habitat Animal'
+100,4,100,3257,4,'Mantenimiento de Instalaciones'
+101,1,101,2981,5,'1'
+102,1,102,4273,5,'2'
+103,2,103,3745,5,NULL
+104,2,104,3506,5,NULL
+105,2,105,4140,5,NULL
+106,2,106,4886,5,NULL
+107,2,107,4145,5,NULL
+108,3,108,3660,5,'Licenciatura en Zoologia'
+109,3,109,2540,5,'Bachillerato en Botanica'
+110,3,110,3100,5,'Doctorado en Vida Marina'
+111,4,111,2953,5,'Mantenimiento de Rutas'
+112,4,112,3517,5,'Conservacion de Habitat Animal'
+113,4,113,3088,5,'Mantenimiento de Instalaciones'
+114,4,114,3316,5,'Mantenimiento de Rutas'
+115,4,115,4962,5,'Conservacion de Habitat Animal'
+116,4,116,4872,5,'Mantenimiento de Instalaciones'
+117,4,117,3865,5,'Mantenimiento de Rutas'
+118,4,118,4096,5,'Conservacion de Habitat Animal'
+119,4,119,2937,5,'Mantenimiento de Instalaciones'
+120,4,120,3773,5,'Mantenimiento de Rutas'
+121,4,121,3175,5,'Conservacion de Habitat Animal'
+122,4,122,4945,5,'Mantenimiento de Instalaciones'
+123,4,123,3441,5,'Mantenimiento de Rutas'
+124,4,124,3450,5,'Conservacion de Habitat Animal'
+125,4,125,3836,5,'Mantenimiento de Instalaciones'
+126,1,126,4225,6,'1'
+127,1,127,3631,6,'2'
+128,2,128,3880,6,NULL
+129,2,129,4452,6,NULL
+130,2,130,2745,6,NULL
+131,2,131,4483,6,NULL
+132,2,132,3384,6,NULL
+133,3,133,3566,6,'Licenciatura en Zoologia'
+134,3,134,4059,6,'Bachillerato en Botanica'
+135,3,135,4249,6,'Doctorado en Vida Marina'
+136,4,136,3857,6,'Mantenimiento de Rutas'
+137,4,137,4090,6,'Conservacion de Habitat Animal'
+138,4,138,3411,6,'Mantenimiento de Instalaciones'
+139,4,139,2941,6,'Mantenimiento de Rutas'
+140,4,140,3018,6,'Conservacion de Habitat Animal'
+141,4,141,2927,6,'Mantenimiento de Instalaciones'
+142,4,142,4202,6,'Mantenimiento de Rutas'
+143,4,143,4967,6,'Conservacion de Habitat Animal'
+144,4,144,4722,6,'Mantenimiento de Instalaciones'
+145,4,145,3246,6,'Mantenimiento de Rutas'
+146,4,146,4920,6,'Conservacion de Habitat Animal'
+147,4,147,4709,6,'Mantenimiento de Instalaciones'
+148,4,148,3595,6,'Mantenimiento de Rutas'
+149,4,149,4255,6,'Conservacion de Habitat Animal'
+150,4,150,3577,6,'Mantenimiento de Instalaciones'
+151,1,151,3114,7,'1'
+152,1,152,4098,7,'2'
+153,2,153,3883,7,NULL
+154,2,154,4830,7,NULL
+155,2,155,3798,7,NULL
+156,2,156,3203,7,NULL
+157,2,157,4047,7,NULL
+158,3,158,4447,7,'Licenciatura en Zoologia'
+159,3,159,3016,7,'Bachillerato en Botanica'
+160,3,160,3158,7,'Doctorado en Vida Marina'
+161,4,161,4629,7,'Mantenimiento de Rutas'
+162,4,162,4739,7,'Conservacion de Habitat Animal'
+163,4,163,4469,7,'Mantenimiento de Instalaciones'
+164,4,164,3530,7,'Mantenimiento de Rutas'
+165,4,165,2835,7,'Conservacion de Habitat Animal'
+166,4,166,2795,7,'Mantenimiento de Instalaciones'
+167,4,167,4648,7,'Mantenimiento de Rutas'
+168,4,168,3598,7,'Conservacion de Habitat Animal'
+169,4,169,4949,7,'Mantenimiento de Instalaciones'
+170,4,170,2716,7,'Mantenimiento de Rutas'
+171,4,171,4172,7,'Conservacion de Habitat Animal'
+172,4,172,4049,7,'Mantenimiento de Instalaciones'
+173,4,173,3244,7,'Mantenimiento de Rutas'
+174,4,174,4541,7,'Conservacion de Habitat Animal'
+175,4,175,4829,7,'Mantenimiento de Instalaciones'
+176,1,176,4412,8,'1'
+177,1,177,2993,8,'2'
+178,2,178,3397,8,NULL
+179,2,179,4124,8,NULL
+180,2,180,3435,8,NULL
+181,2,181,4777,8,NULL
+182,2,182,3723,8,NULL
+183,3,183,4410,8,'Licenciatura en Zoologia'
+184,3,184,4368,8,'Bachillerato en Botanica'
+185,3,185,3667,8,'Doctorado en Vida Marina'
+186,4,186,3825,8,'Mantenimiento de Rutas'
+187,4,187,2910,8,'Conservacion de Habitat Animal'
+188,4,188,3419,8,'Mantenimiento de Instalaciones'
+189,4,189,3038,8,'Mantenimiento de Rutas'
+190,4,190,4768,8,'Conservacion de Habitat Animal'
+191,4,191,3558,8,'Mantenimiento de Instalaciones'
+192,4,192,2572,8,'Mantenimiento de Rutas'
+193,4,193,4202,8,'Conservacion de Habitat Animal'
+194,4,194,3580,8,'Mantenimiento de Instalaciones'
+195,4,195,3677,8,'Mantenimiento de Rutas'
+196,4,196,3765,8,'Conservacion de Habitat Animal'
+197,4,197,4127,8,'Mantenimiento de Instalaciones'
+198,4,198,4493,8,'Mantenimiento de Rutas'
+199,4,199,3624,8,'Conservacion de Habitat Animal'
+200,4,200,3651,8,'Mantenimiento de Instalaciones'
+201,1,201,3987,9,'1'
+202,1,202,2737,9,'2'
+203,2,203,4417,9,NULL
+204,2,204,4808,9,NULL
+205,2,205,3006,9,NULL
+206,2,206,4888,9,NULL
+207,2,207,3000,9,NULL
+208,3,208,3173,9,'Licenciatura en Zoologia'
+209,3,209,3694,9,'Bachillerato en Botanica'
+210,3,210,4552,9,'Doctorado en Vida Marina'
+211,4,211,4508,9,'Mantenimiento de Rutas'
+212,4,212,3948,9,'Conservacion de Habitat Animal'
+213,4,213,3945,9,'Mantenimiento de Instalaciones'
+214,4,214,2530,9,'Mantenimiento de Rutas'
+215,4,215,2914,9,'Conservacion de Habitat Animal'
+216,4,216,3715,9,'Mantenimiento de Instalaciones'
+217,4,217,4171,9,'Mantenimiento de Rutas'
+218,4,218,2550,9,'Conservacion de Habitat Animal'
+219,4,219,4105,9,'Mantenimiento de Instalaciones'
+220,4,220,2769,9,'Mantenimiento de Rutas'
+221,4,221,3848,9,'Conservacion de Habitat Animal'
+222,4,222,4492,9,'Mantenimiento de Instalaciones'
+223,4,223,3736,9,'Mantenimiento de Rutas'
+224,4,224,4390,9,'Conservacion de Habitat Animal'
+225,4,225,2517,9,'Mantenimiento de Instalaciones'
+226,1,226,3845,10,'1'
+227,1,227,3692,10,'2'
+228,2,228,4627,10,NULL
+229,2,229,4074,10,NULL
+230,2,230,4744,10,NULL
+231,2,231,4008,10,NULL
+232,2,232,2589,10,NULL
+233,3,233,3587,10,'Licenciatura en Zoologia'
+234,3,234,3399,10,'Bachillerato en Botanica'
+235,3,235,3789,10,'Doctorado en Vida Marina'
+236,4,236,2722,10,'Mantenimiento de Rutas'
+237,4,237,3352,10,'Conservacion de Habitat Animal'
+238,4,238,3359,10,'Mantenimiento de Instalaciones'
+239,4,239,2881,10,'Mantenimiento de Rutas'
+240,4,240,3620,10,'Conservacion de Habitat Animal'
+241,4,241,4967,10,'Mantenimiento de Instalaciones'
+242,4,242,4448,10,'Mantenimiento de Rutas'
+243,4,243,2610,10,'Conservacion de Habitat Animal'
+244,4,244,3584,10,'Mantenimiento de Instalaciones'
+245,4,245,3031,10,'Mantenimiento de Rutas'
+246,4,246,4902,10,'Conservacion de Habitat Animal'
+247,4,247,2573,10,'Mantenimiento de Instalaciones'
+248,4,248,4103,10,'Mantenimiento de Rutas'
+249,4,249,3719,10,'Conservacion de Habitat Animal'
+250,4,250,4320,10,'Mantenimiento de Instalaciones'
+251,1,251,4995,11,'1'
+252,1,252,4616,11,'2'
+253,2,253,2564,11,NULL
+254,2,254,4596,11,NULL
+255,2,255,4332,11,NULL
+256,2,256,4821,11,NULL
+257,2,257,3280,11,NULL
+258,3,258,4430,11,'Licenciatura en Zoologia'
+259,3,259,3154,11,'Bachillerato en Botanica'
+260,3,260,3028,11,'Doctorado en Vida Marina'
+261,4,261,3927,11,'Mantenimiento de Rutas'
+262,4,262,4458,11,'Conservacion de Habitat Animal'
+263,4,263,4859,11,'Mantenimiento de Instalaciones'
+264,4,264,2550,11,'Mantenimiento de Rutas'
+265,4,265,4590,11,'Conservacion de Habitat Animal'
+266,4,266,4449,11,'Mantenimiento de Instalaciones'
+267,4,267,4490,11,'Mantenimiento de Rutas'
+268,4,268,4641,11,'Conservacion de Habitat Animal'
+269,4,269,4514,11,'Mantenimiento de Instalaciones'
+270,4,270,3979,11,'Mantenimiento de Rutas'
+271,4,271,3586,11,'Conservacion de Habitat Animal'
+272,4,272,3010,11,'Mantenimiento de Instalaciones'
+273,4,273,4453,11,'Mantenimiento de Rutas'
+274,4,274,2546,11,'Conservacion de Habitat Animal'
+275,4,275,3819,11,'Mantenimiento de Instalaciones'
+276,1,276,4327,12,'1'
+277,1,277,2857,12,'2'
+278,2,278,4380,12,NULL
+279,2,279,4286,12,NULL
+280,2,280,4361,12,NULL
+281,2,281,4312,12,NULL
+282,2,282,3704,12,NULL
+283,3,283,3846,12,'Licenciatura en Zoologia'
+284,3,284,2816,12,'Bachillerato en Botanica'
+285,3,285,4276,12,'Doctorado en Vida Marina'
+286,4,286,3699,12,'Mantenimiento de Rutas'
+287,4,287,2530,12,'Conservacion de Habitat Animal'
+288,4,288,2834,12,'Mantenimiento de Instalaciones'
+289,4,289,4727,12,'Mantenimiento de Rutas'
+290,4,290,4958,12,'Conservacion de Habitat Animal'
+291,4,291,3444,12,'Mantenimiento de Instalaciones'
+292,4,292,2772,12,'Mantenimiento de Rutas'
+293,4,293,3631,12,'Conservacion de Habitat Animal'
+294,4,294,3640,12,'Mantenimiento de Instalaciones'
+295,4,295,3381,12,'Mantenimiento de Rutas'
+296,4,296,4191,12,'Conservacion de Habitat Animal'
+297,4,297,3805,12,'Mantenimiento de Instalaciones'
+298,4,298,4735,12,'Mantenimiento de Rutas'
+299,4,299,3533,12,'Conservacion de Habitat Animal'
+300,4,300,3876,12,'Mantenimiento de Instalaciones'
+301,1,301,3458,13,'1'
+302,1,302,4533,13,'2'
+303,2,303,3603,13,NULL
+304,2,304,2858,13,NULL
+305,2,305,2942,13,NULL
+306,2,306,3545,13,NULL
+307,2,307,4942,13,NULL
+308,3,308,3313,13,'Licenciatura en Zoologia'
+309,3,309,4462,13,'Bachillerato en Botanica'
+310,3,310,4666,13,'Doctorado en Vida Marina'
+311,4,311,4549,13,'Mantenimiento de Rutas'
+312,4,312,3520,13,'Conservacion de Habitat Animal'
+313,4,313,3046,13,'Mantenimiento de Instalaciones'
+314,4,314,4594,13,'Mantenimiento de Rutas'
+315,4,315,4149,13,'Conservacion de Habitat Animal'
+316,4,316,4196,13,'Mantenimiento de Instalaciones'
+317,4,317,4356,13,'Mantenimiento de Rutas'
+318,4,318,4147,13,'Conservacion de Habitat Animal'
+319,4,319,4817,13,'Mantenimiento de Instalaciones'
+320,4,320,3252,13,'Mantenimiento de Rutas'
+321,4,321,2721,13,'Conservacion de Habitat Animal'
+322,4,322,4223,13,'Mantenimiento de Instalaciones'
+323,4,323,3565,13,'Mantenimiento de Rutas'
+324,4,324,3023,13,'Conservacion de Habitat Animal'
+325,4,325,3403,13,'Mantenimiento de Instalaciones'
+326,1,326,4368,14,'1'
+327,1,327,2880,14,'2'
+328,2,328,4029,14,NULL
+329,2,329,3137,14,NULL
+330,2,330,4699,14,NULL
+331,2,331,3788,14,NULL
+332,2,332,3034,14,NULL
+333,3,333,3201,14,'Licenciatura en Zoologia'
+334,3,334,3868,14,'Bachillerato en Botanica'
+335,3,335,4178,14,'Doctorado en Vida Marina'
+336,4,336,2624,14,'Mantenimiento de Rutas'
+337,4,337,4861,14,'Conservacion de Habitat Animal'
+338,4,338,3487,14,'Mantenimiento de Instalaciones'
+339,4,339,2826,14,'Mantenimiento de Rutas'
+340,4,340,4387,14,'Conservacion de Habitat Animal'
+341,4,341,4287,14,'Mantenimiento de Instalaciones'
+342,4,342,4286,14,'Mantenimiento de Rutas'
+343,4,343,2846,14,'Conservacion de Habitat Animal'
+344,4,344,3660,14,'Mantenimiento de Instalaciones'
+345,4,345,3929,14,'Mantenimiento de Rutas'
+346,4,346,3621,14,'Conservacion de Habitat Animal'
+347,4,347,3630,14,'Mantenimiento de Instalaciones'
+348,4,348,2712,14,'Mantenimiento de Rutas'
+349,4,349,3970,14,'Conservacion de Habitat Animal'
+350,4,350,4687,14,'Mantenimiento de Instalaciones'
+351,1,351,3362,15,'1'
+352,1,352,2614,15,'2'
+353,2,353,3949,15,NULL
+354,2,354,3069,15,NULL
+355,2,355,4145,15,NULL
+356,2,356,3438,15,NULL
+357,2,357,2866,15,NULL
+358,3,358,4478,15,'Licenciatura en Zoologia'
+359,3,359,3938,15,'Bachillerato en Botanica'
+360,3,360,4041,15,'Doctorado en Vida Marina'
+361,4,361,4409,15,'Mantenimiento de Rutas'
+362,4,362,2885,15,'Conservacion de Habitat Animal'
+363,4,363,3987,15,'Mantenimiento de Instalaciones'
+364,4,364,4384,15,'Mantenimiento de Rutas'
+365,4,365,2611,15,'Conservacion de Habitat Animal'
+366,4,366,2911,15,'Mantenimiento de Instalaciones'
+367,4,367,2908,15,'Mantenimiento de Rutas'
+368,4,368,3164,15,'Conservacion de Habitat Animal'
+369,4,369,4457,15,'Mantenimiento de Instalaciones'
+370,4,370,3468,15,'Mantenimiento de Rutas'
+371,4,371,4018,15,'Conservacion de Habitat Animal'
+372,4,372,3164,15,'Mantenimiento de Instalaciones'
+373,4,373,4642,15,'Mantenimiento de Rutas'
+374,4,374,2971,15,'Conservacion de Habitat Animal'
+375,4,375,4309,15,'Mantenimiento de Instalaciones'
+376,1,376,3344,16,'1'
+377,1,377,3283,16,'2'
+378,2,378,4536,16,NULL
+379,2,379,2606,16,NULL
+380,2,380,3573,16,NULL
+381,2,381,3976,16,NULL
+382,2,382,4645,16,NULL
+383,3,383,2871,16,'Licenciatura en Zoologia'
+384,3,384,3029,16,'Bachillerato en Botanica'
+385,3,385,4050,16,'Doctorado en Vida Marina'
+386,4,386,3334,16,'Mantenimiento de Rutas'
+387,4,387,4535,16,'Conservacion de Habitat Animal'
+388,4,388,3297,16,'Mantenimiento de Instalaciones'
+389,4,389,3305,16,'Mantenimiento de Rutas'
+390,4,390,4509,16,'Conservacion de Habitat Animal'
+391,4,391,3481,16,'Mantenimiento de Instalaciones'
+392,4,392,4671,16,'Mantenimiento de Rutas'
+393,4,393,4120,16,'Conservacion de Habitat Animal'
+394,4,394,3853,16,'Mantenimiento de Instalaciones'
+395,4,395,4451,16,'Mantenimiento de Rutas'
+396,4,396,4823,16,'Conservacion de Habitat Animal'
+397,4,397,3030,16,'Mantenimiento de Instalaciones'
+398,4,398,4543,16,'Mantenimiento de Rutas'
+399,4,399,2900,16,'Conservacion de Habitat Animal'
+400,4,400,3064,16,'Mantenimiento de Instalaciones'
+401,1,401,3404,17,'1'
+402,1,402,3867,17,'2'
+403,2,403,3021,17,NULL
+404,2,404,4257,17,NULL
+405,2,405,4975,17,NULL
+406,2,406,4477,17,NULL
+407,2,407,3143,17,NULL
+408,3,408,4892,17,'Licenciatura en Zoologia'
+409,3,409,4328,17,'Bachillerato en Botanica'
+410,3,410,3596,17,'Doctorado en Vida Marina'
+411,4,411,3881,17,'Mantenimiento de Rutas'
+412,4,412,2985,17,'Conservacion de Habitat Animal'
+413,4,413,2713,17,'Mantenimiento de Instalaciones'
+414,4,414,4056,17,'Mantenimiento de Rutas'
+415,4,415,3041,17,'Conservacion de Habitat Animal'
+416,4,416,4949,17,'Mantenimiento de Instalaciones'
+417,4,417,3097,17,'Mantenimiento de Rutas'
+418,4,418,2889,17,'Conservacion de Habitat Animal'
+419,4,419,4388,17,'Mantenimiento de Instalaciones'
+420,4,420,4416,17,'Mantenimiento de Rutas'
+421,4,421,3136,17,'Conservacion de Habitat Animal'
+422,4,422,2978,17,'Mantenimiento de Instalaciones'
+423,4,423,3047,17,'Mantenimiento de Rutas'
+424,4,424,2753,17,'Conservacion de Habitat Animal'
+425,4,425,4005,17,'Mantenimiento de Instalaciones'
+426,1,426,2902,18,'1'
+427,1,427,3580,18,'2'
+428,2,428,2520,18,NULL
+429,2,429,4912,18,NULL
+430,2,430,3151,18,NULL
+431,2,431,4653,18,NULL
+432,2,432,4925,18,NULL
+433,3,433,3143,18,'Licenciatura en Zoologia'
+434,3,434,3755,18,'Bachillerato en Botanica'
+435,3,435,3377,18,'Doctorado en Vida Marina'
+436,4,436,4764,18,'Mantenimiento de Rutas'
+437,4,437,3724,18,'Conservacion de Habitat Animal'
+438,4,438,4914,18,'Mantenimiento de Instalaciones'
+439,4,439,2699,18,'Mantenimiento de Rutas'
+440,4,440,4265,18,'Conservacion de Habitat Animal'
+441,4,441,4283,18,'Mantenimiento de Instalaciones'
+442,4,442,2665,18,'Mantenimiento de Rutas'
+443,4,443,3660,18,'Conservacion de Habitat Animal'
+444,4,444,3927,18,'Mantenimiento de Instalaciones'
+445,4,445,4602,18,'Mantenimiento de Rutas'
+446,4,446,2877,18,'Conservacion de Habitat Animal'
+447,4,447,3822,18,'Mantenimiento de Instalaciones'
+448,4,448,3351,18,'Mantenimiento de Rutas'
+449,4,449,2609,18,'Conservacion de Habitat Animal'
+450,4,450,2645,18,'Mantenimiento de Instalaciones'
+451,1,451,3394,19,'1'
+452,1,452,3331,19,'2'
+453,2,453,4920,19,NULL
+454,2,454,4992,19,NULL
+455,2,455,3371,19,NULL
+456,2,456,3181,19,NULL
+457,2,457,4532,19,NULL
+458,3,458,4537,19,'Licenciatura en Zoologia'
+459,3,459,2678,19,'Bachillerato en Botanica'
+460,3,460,3495,19,'Doctorado en Vida Marina'
+461,4,461,2712,19,'Mantenimiento de Rutas'
+462,4,462,3544,19,'Conservacion de Habitat Animal'
+463,4,463,3505,19,'Mantenimiento de Instalaciones'
+464,4,464,3044,19,'Mantenimiento de Rutas'
+465,4,465,3260,19,'Conservacion de Habitat Animal'
+466,4,466,3317,19,'Mantenimiento de Instalaciones'
+467,4,467,4236,19,'Mantenimiento de Rutas'
+468,4,468,3852,19,'Conservacion de Habitat Animal'
+469,4,469,4946,19,'Mantenimiento de Instalaciones'
+470,4,470,3427,19,'Mantenimiento de Rutas'
+471,4,471,4346,19,'Conservacion de Habitat Animal'
+472,4,472,3913,19,'Mantenimiento de Instalaciones'
+473,4,473,3946,19,'Mantenimiento de Rutas'
+474,4,474,3245,19,'Conservacion de Habitat Animal'
+475,4,475,4665,19,'Mantenimiento de Instalaciones'
+476,1,476,3402,20,'1'
+477,1,477,3211,20,'2'
+478,2,478,3695,20,NULL
+479,2,479,4979,20,NULL
+480,2,480,3258,20,NULL
+481,2,481,4394,20,NULL
+482,2,482,4902,20,NULL
+483,3,483,3452,20,'Licenciatura en Zoologia'
+484,3,484,4534,20,'Bachillerato en Botanica'
+485,3,485,3117,20,'Doctorado en Vida Marina'
+486,4,486,4845,20,'Mantenimiento de Rutas'
+487,4,487,3451,20,'Conservacion de Habitat Animal'
+488,4,488,2690,20,'Mantenimiento de Instalaciones'
+489,4,489,3191,20,'Mantenimiento de Rutas'
+490,4,490,3435,20,'Conservacion de Habitat Animal'
+491,4,491,2530,20,'Mantenimiento de Instalaciones'
+492,4,492,3615,20,'Mantenimiento de Rutas'
+493,4,493,3350,20,'Conservacion de Habitat Animal'
+494,4,494,4087,20,'Mantenimiento de Instalaciones'
+495,4,495,3444,20,'Mantenimiento de Rutas'
+496,4,496,3224,20,'Conservacion de Habitat Animal'
+497,4,497,4960,20,'Mantenimiento de Instalaciones'
+498,4,498,3599,20,'Mantenimiento de Rutas'
+499,4,499,3629,20,'Conservacion de Habitat Animal'
+500,4,500,4643,20,'Mantenimiento de Instalaciones'
+501,1,501,4503,21,'1'
+502,1,502,4981,21,'2'
+503,2,503,4826,21,NULL
+504,2,504,3957,21,NULL
+505,2,505,4379,21,NULL
+506,2,506,3755,21,NULL
+507,2,507,2778,21,NULL
+508,3,508,3119,21,'Licenciatura en Zoologia'
+509,3,509,3938,21,'Bachillerato en Botanica'
+510,3,510,3309,21,'Doctorado en Vida Marina'
+511,4,511,3001,21,'Mantenimiento de Rutas'
+512,4,512,2546,21,'Conservacion de Habitat Animal'
+513,4,513,4123,21,'Mantenimiento de Instalaciones'
+514,4,514,3326,21,'Mantenimiento de Rutas'
+515,4,515,4316,21,'Conservacion de Habitat Animal'
+516,4,516,3699,21,'Mantenimiento de Instalaciones'
+517,4,517,3111,21,'Mantenimiento de Rutas'
+518,4,518,3991,21,'Conservacion de Habitat Animal'
+519,4,519,4842,21,'Mantenimiento de Instalaciones'
+520,4,520,3653,21,'Mantenimiento de Rutas'
+521,4,521,3438,21,'Conservacion de Habitat Animal'
+522,4,522,3755,21,'Mantenimiento de Instalaciones'
+523,4,523,3556,21,'Mantenimiento de Rutas'
+524,4,524,2592,21,'Conservacion de Habitat Animal'
+525,4,525,2565,21,'Mantenimiento de Instalaciones'
+526,1,526,2725,22,'1'
+527,1,527,3398,22,'2'
+528,2,528,4234,22,NULL
+529,2,529,4249,22,NULL
+530,2,530,3813,22,NULL
+531,2,531,4756,22,NULL
+532,2,532,2859,22,NULL
+533,3,533,4174,22,'Licenciatura en Zoologia'
+534,3,534,2520,22,'Bachillerato en Botanica'
+535,3,535,4769,22,'Doctorado en Vida Marina'
+536,4,536,3052,22,'Mantenimiento de Rutas'
+537,4,537,3464,22,'Conservacion de Habitat Animal'
+538,4,538,4546,22,'Mantenimiento de Instalaciones'
+539,4,539,4508,22,'Mantenimiento de Rutas'
+540,4,540,4936,22,'Conservacion de Habitat Animal'
+541,4,541,2545,22,'Mantenimiento de Instalaciones'
+542,4,542,2675,22,'Mantenimiento de Rutas'
+543,4,543,2572,22,'Conservacion de Habitat Animal'
+544,4,544,4407,22,'Mantenimiento de Instalaciones'
+545,4,545,4892,22,'Mantenimiento de Rutas'
+546,4,546,4742,22,'Conservacion de Habitat Animal'
+547,4,547,3175,22,'Mantenimiento de Instalaciones'
+548,4,548,4019,22,'Mantenimiento de Rutas'
+549,4,549,3767,22,'Conservacion de Habitat Animal'
+550,4,550,3504,22,'Mantenimiento de Instalaciones'
+551,1,551,4468,23,'1'
+552,1,552,4460,23,'2'
+553,2,553,3469,23,NULL
+554,2,554,3597,23,NULL
+555,2,555,3882,23,NULL
+556,2,556,4656,23,NULL
+557,2,557,2540,23,NULL
+558,3,558,3589,23,'Licenciatura en Zoologia'
+559,3,559,3311,23,'Bachillerato en Botanica'
+560,3,560,3393,23,'Doctorado en Vida Marina'
+561,4,561,4655,23,'Mantenimiento de Rutas'
+562,4,562,4554,23,'Conservacion de Habitat Animal'
+563,4,563,3978,23,'Mantenimiento de Instalaciones'
+564,4,564,2746,23,'Mantenimiento de Rutas'
+565,4,565,4794,23,'Conservacion de Habitat Animal'
+566,4,566,4275,23,'Mantenimiento de Instalaciones'
+567,4,567,3474,23,'Mantenimiento de Rutas'
+568,4,568,3855,23,'Conservacion de Habitat Animal'
+569,4,569,4148,23,'Mantenimiento de Instalaciones'
+570,4,570,4349,23,'Mantenimiento de Rutas'
+571,4,571,4521,23,'Conservacion de Habitat Animal'
+572,4,572,4309,23,'Mantenimiento de Instalaciones'
+573,4,573,2955,23,'Mantenimiento de Rutas'
+574,4,574,4047,23,'Conservacion de Habitat Animal'
+575,4,575,3055,23,'Mantenimiento de Instalaciones'
+576,1,576,2796,24,'1'
+577,1,577,4792,24,'2'
+578,2,578,3678,24,NULL
+579,2,579,4457,24,NULL
+580,2,580,3161,24,NULL
+581,2,581,3219,24,NULL
+582,2,582,3226,24,NULL
+583,3,583,3323,24,'Licenciatura en Zoologia'
+584,3,584,2876,24,'Bachillerato en Botanica'
+585,3,585,2923,24,'Doctorado en Vida Marina'
+586,4,586,2864,24,'Mantenimiento de Rutas'
+587,4,587,4858,24,'Conservacion de Habitat Animal'
+588,4,588,2748,24,'Mantenimiento de Instalaciones'
+589,4,589,2889,24,'Mantenimiento de Rutas'
+590,4,590,3843,24,'Conservacion de Habitat Animal'
+591,4,591,2715,24,'Mantenimiento de Instalaciones'
+592,4,592,4354,24,'Mantenimiento de Rutas'
+593,4,593,2529,24,'Conservacion de Habitat Animal'
+594,4,594,3550,24,'Mantenimiento de Instalaciones'
+595,4,595,2886,24,'Mantenimiento de Rutas'
+596,4,596,3850,24,'Conservacion de Habitat Animal'
+597,4,597,4080,24,'Mantenimiento de Instalaciones'
+598,4,598,2534,24,'Mantenimiento de Rutas'
+599,4,599,3243,24,'Conservacion de Habitat Animal'
+600,4,600,4626,24,'Mantenimiento de Instalaciones'
+601,1,601,4029,25,'1'
+602,1,602,2730,25,'2'
+603,2,603,2599,25,NULL
+604,2,604,3890,25,NULL
+605,2,605,2608,25,NULL
+606,2,606,4782,25,NULL
+607,2,607,3586,25,NULL
+608,3,608,4334,25,'Licenciatura en Zoologia'
+609,3,609,4202,25,'Bachillerato en Botanica'
+610,3,610,2638,25,'Doctorado en Vida Marina'
+611,4,611,3306,25,'Mantenimiento de Rutas'
+612,4,612,3195,25,'Conservacion de Habitat Animal'
+613,4,613,2846,25,'Mantenimiento de Instalaciones'
+614,4,614,4167,25,'Mantenimiento de Rutas'
+615,4,615,4687,25,'Conservacion de Habitat Animal'
+616,4,616,3864,25,'Mantenimiento de Instalaciones'
+617,4,617,4385,25,'Mantenimiento de Rutas'
+618,4,618,4665,25,'Conservacion de Habitat Animal'
+619,4,619,3429,25,'Mantenimiento de Instalaciones'
+620,4,620,4189,25,'Mantenimiento de Rutas'
+621,4,621,4075,25,'Conservacion de Habitat Animal'
+622,4,622,3607,25,'Mantenimiento de Instalaciones'
+623,4,623,3491,25,'Mantenimiento de Rutas'
+624,4,624,2684,25,'Conservacion de Habitat Animal'
+625,4,625,4519,25,'Mantenimiento de Instalaciones'
+626,1,626,4627,26,'1'
+627,1,627,3302,26,'2'
+628,2,628,2583,26,NULL
+629,2,629,4451,26,NULL
+630,2,630,4517,26,NULL
+631,2,631,4331,26,NULL
+632,2,632,3796,26,NULL
+633,3,633,3857,26,'Licenciatura en Zoologia'
+634,3,634,3079,26,'Bachillerato en Botanica'
+635,3,635,3140,26,'Doctorado en Vida Marina'
+636,4,636,3778,26,'Mantenimiento de Rutas'
+637,4,637,4742,26,'Conservacion de Habitat Animal'
+638,4,638,4233,26,'Mantenimiento de Instalaciones'
+639,4,639,3466,26,'Mantenimiento de Rutas'
+640,4,640,4694,26,'Conservacion de Habitat Animal'
+641,4,641,3098,26,'Mantenimiento de Instalaciones'
+642,4,642,3729,26,'Mantenimiento de Rutas'
+643,4,643,3206,26,'Conservacion de Habitat Animal'
+644,4,644,2817,26,'Mantenimiento de Instalaciones'
+645,4,645,3460,26,'Mantenimiento de Rutas'
+646,4,646,3188,26,'Conservacion de Habitat Animal'
+647,4,647,4742,26,'Mantenimiento de Instalaciones'
+648,4,648,3024,26,'Mantenimiento de Rutas'
+649,4,649,4419,26,'Conservacion de Habitat Animal'
+650,4,650,3543,26,'Mantenimiento de Instalaciones'
+651,1,651,3373,27,'1'
+652,1,652,3719,27,'2'
+653,2,653,2512,27,NULL
+654,2,654,4831,27,NULL
+655,2,655,2692,27,NULL
+656,2,656,4396,27,NULL
+657,2,657,4967,27,NULL
+658,3,658,3836,27,'Licenciatura en Zoologia'
+659,3,659,4706,27,'Bachillerato en Botanica'
+660,3,660,3317,27,'Doctorado en Vida Marina'
+661,4,661,3774,27,'Mantenimiento de Rutas'
+662,4,662,4710,27,'Conservacion de Habitat Animal'
+663,4,663,3693,27,'Mantenimiento de Instalaciones'
+664,4,664,2678,27,'Mantenimiento de Rutas'
+665,4,665,2915,27,'Conservacion de Habitat Animal'
+666,4,666,3227,27,'Mantenimiento de Instalaciones'
+667,4,667,3775,27,'Mantenimiento de Rutas'
+668,4,668,3146,27,'Conservacion de Habitat Animal'
+669,4,669,4188,27,'Mantenimiento de Instalaciones'
+670,4,670,4650,27,'Mantenimiento de Rutas'
+671,4,671,4004,27,'Conservacion de Habitat Animal'
+672,4,672,4463,27,'Mantenimiento de Instalaciones'
+673,4,673,2516,27,'Mantenimiento de Rutas'
+674,4,674,4683,27,'Conservacion de Habitat Animal'
+675,4,675,3347,27,'Mantenimiento de Instalaciones'
+676,1,676,4195,28,'1'
+677,1,677,3123,28,'2'
+678,2,678,2560,28,NULL
+679,2,679,4748,28,NULL
+680,2,680,2742,28,NULL
+681,2,681,4749,28,NULL
+682,2,682,3131,28,NULL
+683,3,683,4097,28,'Licenciatura en Zoologia'
+684,3,684,4855,28,'Bachillerato en Botanica'
+685,3,685,4233,28,'Doctorado en Vida Marina'
+686,4,686,3486,28,'Mantenimiento de Rutas'
+687,4,687,3154,28,'Conservacion de Habitat Animal'
+688,4,688,2609,28,'Mantenimiento de Instalaciones'
+689,4,689,2651,28,'Mantenimiento de Rutas'
+690,4,690,3137,28,'Conservacion de Habitat Animal'
+691,4,691,4081,28,'Mantenimiento de Instalaciones'
+692,4,692,4755,28,'Mantenimiento de Rutas'
+693,4,693,2574,28,'Conservacion de Habitat Animal'
+694,4,694,4313,28,'Mantenimiento de Instalaciones'
+695,4,695,3745,28,'Mantenimiento de Rutas'
+696,4,696,3707,28,'Conservacion de Habitat Animal'
+697,4,697,2771,28,'Mantenimiento de Instalaciones'
+698,4,698,3592,28,'Mantenimiento de Rutas'
+699,4,699,3169,28,'Conservacion de Habitat Animal'
+700,4,700,3904,28,'Mantenimiento de Instalaciones'
+701,1,701,3974,29,'1'
+702,1,702,3838,29,'2'
+703,2,703,3366,29,NULL
+704,2,704,4011,29,NULL
+705,2,705,4066,29,NULL
+706,2,706,3093,29,NULL
+707,2,707,4915,29,NULL
+708,3,708,4816,29,'Licenciatura en Zoologia'
+709,3,709,2500,29,'Bachillerato en Botanica'
+710,3,710,3396,29,'Doctorado en Vida Marina'
+711,4,711,4462,29,'Mantenimiento de Rutas'
+712,4,712,2795,29,'Conservacion de Habitat Animal'
+713,4,713,3824,29,'Mantenimiento de Instalaciones'
+714,4,714,2986,29,'Mantenimiento de Rutas'
+715,4,715,4312,29,'Conservacion de Habitat Animal'
+716,4,716,2583,29,'Mantenimiento de Instalaciones'
+717,4,717,2699,29,'Mantenimiento de Rutas'
+718,4,718,4938,29,'Conservacion de Habitat Animal'
+719,4,719,4011,29,'Mantenimiento de Instalaciones'
+720,4,720,4127,29,'Mantenimiento de Rutas'
+721,4,721,3300,29,'Conservacion de Habitat Animal'
+722,4,722,4932,29,'Mantenimiento de Instalaciones'
+723,4,723,2538,29,'Mantenimiento de Rutas'
+724,4,724,4820,29,'Conservacion de Habitat Animal'
+725,4,725,2861,29,'Mantenimiento de Instalaciones'
+726,1,726,3782,30,'1'
+727,1,727,2619,30,'2'
+728,2,728,3552,30,NULL
+729,2,729,3205,30,NULL
+730,2,730,4309,30,NULL
+731,2,731,3746,30,NULL
+732,2,732,3152,30,NULL
+733,3,733,2527,30,'Licenciatura en Zoologia'
+734,3,734,2607,30,'Bachillerato en Botanica'
+735,3,735,2878,30,'Doctorado en Vida Marina'
+736,4,736,4876,30,'Mantenimiento de Rutas'
+737,4,737,4633,30,'Conservacion de Habitat Animal'
+738,4,738,3767,30,'Mantenimiento de Instalaciones'
+739,4,739,3409,30,'Mantenimiento de Rutas'
+740,4,740,3626,30,'Conservacion de Habitat Animal'
+741,4,741,3208,30,'Mantenimiento de Instalaciones'
+742,4,742,2511,30,'Mantenimiento de Rutas'
+743,4,743,3248,30,'Conservacion de Habitat Animal'
+744,4,744,3480,30,'Mantenimiento de Instalaciones'
+745,4,745,3156,30,'Mantenimiento de Rutas'
+746,4,746,4773,30,'Conservacion de Habitat Animal'
+747,4,747,3283,30,'Mantenimiento de Instalaciones'
+748,4,748,2797,30,'Mantenimiento de Rutas'
+749,4,749,4767,30,'Conservacion de Habitat Animal'
+750,4,750,3847,30,'Mantenimiento de Instalaciones'
+751,1,751,4895,31,'1'
+752,1,752,3736,31,'2'
+753,2,753,4338,31,NULL
+754,2,754,3890,31,NULL
+755,2,755,4636,31,NULL
+756,2,756,3955,31,NULL
+757,2,757,4093,31,NULL
+758,3,758,3936,31,'Licenciatura en Zoologia'
+759,3,759,3324,31,'Bachillerato en Botanica'
+760,3,760,3637,31,'Doctorado en Vida Marina'
+761,4,761,4560,31,'Mantenimiento de Rutas'
+762,4,762,4879,31,'Conservacion de Habitat Animal'
+763,4,763,3637,31,'Mantenimiento de Instalaciones'
+764,4,764,3944,31,'Mantenimiento de Rutas'
+765,4,765,3841,31,'Conservacion de Habitat Animal'
+766,4,766,3311,31,'Mantenimiento de Instalaciones'
+767,4,767,4228,31,'Mantenimiento de Rutas'
+768,4,768,3633,31,'Conservacion de Habitat Animal'
+769,4,769,3642,31,'Mantenimiento de Instalaciones'
+770,4,770,3871,31,'Mantenimiento de Rutas'
+771,4,771,2748,31,'Conservacion de Habitat Animal'
+772,4,772,4174,31,'Mantenimiento de Instalaciones'
+773,4,773,2686,31,'Mantenimiento de Rutas'
+774,4,774,4896,31,'Conservacion de Habitat Animal'
+775,4,775,2603,31,'Mantenimiento de Instalaciones'
+776,1,776,2567,32,'1'
+777,1,777,2700,32,'2'
+778,2,778,2799,32,NULL
+779,2,779,3044,32,NULL
+780,2,780,3773,32,NULL
+781,2,781,4633,32,NULL
+782,2,782,3625,32,NULL
+783,3,783,2644,32,'Licenciatura en Zoologia'
+784,3,784,3793,32,'Bachillerato en Botanica'
+785,3,785,4996,32,'Doctorado en Vida Marina'
+786,4,786,3869,32,'Mantenimiento de Rutas'
+787,4,787,4014,32,'Conservacion de Habitat Animal'
+788,4,788,3532,32,'Mantenimiento de Instalaciones'
+789,4,789,4208,32,'Mantenimiento de Rutas'
+790,4,790,3789,32,'Conservacion de Habitat Animal'
+791,4,791,3214,32,'Mantenimiento de Instalaciones'
+792,4,792,3859,32,'Mantenimiento de Rutas'
+793,4,793,3334,32,'Conservacion de Habitat Animal'
+794,4,794,2986,32,'Mantenimiento de Instalaciones'
+795,4,795,4954,32,'Mantenimiento de Rutas'
+796,4,796,2797,32,'Conservacion de Habitat Animal'
+797,4,797,2751,32,'Mantenimiento de Instalaciones'
+798,4,798,4709,32,'Mantenimiento de Rutas'
+799,4,799,3013,32,'Conservacion de Habitat Animal'
+800,4,800,4411,32,'Mantenimiento de Instalaciones'
+801,1,801,4710,33,'1'
+802,1,802,3235,33,'2'
+803,2,803,4413,33,NULL
+804,2,804,4185,33,NULL
+805,2,805,3274,33,NULL
+806,2,806,2871,33,NULL
+807,2,807,2585,33,NULL
+808,3,808,2629,33,'Licenciatura en Zoologia'
+809,3,809,4690,33,'Bachillerato en Botanica'
+810,3,810,3249,33,'Doctorado en Vida Marina'
+811,4,811,2542,33,'Mantenimiento de Rutas'
+812,4,812,2764,33,'Conservacion de Habitat Animal'
+813,4,813,3248,33,'Mantenimiento de Instalaciones'
+814,4,814,4174,33,'Mantenimiento de Rutas'
+815,4,815,3321,33,'Conservacion de Habitat Animal'
+816,4,816,3600,33,'Mantenimiento de Instalaciones'
+817,4,817,4138,33,'Mantenimiento de Rutas'
+818,4,818,3267,33,'Conservacion de Habitat Animal'
+819,4,819,4873,33,'Mantenimiento de Instalaciones'
+820,4,820,3345,33,'Mantenimiento de Rutas'
+821,4,821,3913,33,'Conservacion de Habitat Animal'
+822,4,822,2889,33,'Mantenimiento de Instalaciones'
+823,4,823,3518,33,'Mantenimiento de Rutas'
+824,4,824,2899,33,'Conservacion de Habitat Animal'
+825,4,825,3227,33,'Mantenimiento de Instalaciones'
+826,1,826,4018,34,'1'
+827,1,827,4817,34,'2'
+828,2,828,4419,34,NULL
+829,2,829,4322,34,NULL
+830,2,830,4497,34,NULL
+831,2,831,4763,34,NULL
+832,2,832,3355,34,NULL
+833,3,833,2826,34,'Licenciatura en Zoologia'
+834,3,834,3183,34,'Bachillerato en Botanica'
+835,3,835,4202,34,'Doctorado en Vida Marina'
+836,4,836,3961,34,'Mantenimiento de Rutas'
+837,4,837,4644,34,'Conservacion de Habitat Animal'
+838,4,838,4969,34,'Mantenimiento de Instalaciones'
+839,4,839,3237,34,'Mantenimiento de Rutas'
+840,4,840,4645,34,'Conservacion de Habitat Animal'
+841,4,841,3466,34,'Mantenimiento de Instalaciones'
+842,4,842,3634,34,'Mantenimiento de Rutas'
+843,4,843,2765,34,'Conservacion de Habitat Animal'
+844,4,844,2709,34,'Mantenimiento de Instalaciones'
+845,4,845,2604,34,'Mantenimiento de Rutas'
+846,4,846,4187,34,'Conservacion de Habitat Animal'
+847,4,847,4594,34,'Mantenimiento de Instalaciones'
+848,4,848,4843,34,'Mantenimiento de Rutas'
+849,4,849,3484,34,'Conservacion de Habitat Animal'
+850,4,850,4205,34,'Mantenimiento de Instalaciones'
+851,1,851,3107,35,'1'
+852,1,852,3922,35,'2'
+853,2,853,2653,35,NULL
+854,2,854,3807,35,NULL
+855,2,855,4634,35,NULL
+856,2,856,4950,35,NULL
+857,2,857,3979,35,NULL
+858,3,858,4757,35,'Licenciatura en Zoologia'
+859,3,859,3198,35,'Bachillerato en Botanica'
+860,3,860,3896,35,'Doctorado en Vida Marina'
+861,4,861,2943,35,'Mantenimiento de Rutas'
+862,4,862,3096,35,'Conservacion de Habitat Animal'
+863,4,863,3780,35,'Mantenimiento de Instalaciones'
+864,4,864,4913,35,'Mantenimiento de Rutas'
+865,4,865,2797,35,'Conservacion de Habitat Animal'
+866,4,866,4958,35,'Mantenimiento de Instalaciones'
+867,4,867,3918,35,'Mantenimiento de Rutas'
+868,4,868,3802,35,'Conservacion de Habitat Animal'
+869,4,869,2676,35,'Mantenimiento de Instalaciones'
+870,4,870,4681,35,'Mantenimiento de Rutas'
+871,4,871,4387,35,'Conservacion de Habitat Animal'
+872,4,872,4249,35,'Mantenimiento de Instalaciones'
+873,4,873,4898,35,'Mantenimiento de Rutas'
+874,4,874,4960,35,'Conservacion de Habitat Animal'
+875,4,875,3438,35,'Mantenimiento de Instalaciones'
+876,1,876,4162,36,'1'
+877,1,877,4104,36,'2'
+878,2,878,3161,36,NULL
+879,2,879,2626,36,NULL
+880,2,880,3445,36,NULL
+881,2,881,3915,36,NULL
+882,2,882,2584,36,NULL
+883,3,883,3508,36,'Licenciatura en Zoologia'
+884,3,884,3720,36,'Bachillerato en Botanica'
+885,3,885,3863,36,'Doctorado en Vida Marina'
+886,4,886,2616,36,'Mantenimiento de Rutas'
+887,4,887,3505,36,'Conservacion de Habitat Animal'
+888,4,888,4361,36,'Mantenimiento de Instalaciones'
+889,4,889,3720,36,'Mantenimiento de Rutas'
+890,4,890,3876,36,'Conservacion de Habitat Animal'
+891,4,891,3164,36,'Mantenimiento de Instalaciones'
+892,4,892,3332,36,'Mantenimiento de Rutas'
+893,4,893,4009,36,'Conservacion de Habitat Animal'
+894,4,894,4796,36,'Mantenimiento de Instalaciones'
+895,4,895,2770,36,'Mantenimiento de Rutas'
+896,4,896,3767,36,'Conservacion de Habitat Animal'
+897,4,897,4143,36,'Mantenimiento de Instalaciones'
+898,4,898,2647,36,'Mantenimiento de Rutas'
+899,4,899,3349,36,'Conservacion de Habitat Animal'
+900,4,900,4318,36,'Mantenimiento de Instalaciones'
+901,1,901,3458,37,'1'
+902,1,902,3061,37,'2'
+903,2,903,2952,37,NULL
+904,2,904,2830,37,NULL
+905,2,905,4142,37,NULL
+906,2,906,4594,37,NULL
+907,2,907,4203,37,NULL
+908,3,908,3430,37,'Licenciatura en Zoologia'
+909,3,909,2961,37,'Bachillerato en Botanica'
+910,3,910,3881,37,'Doctorado en Vida Marina'
+911,4,911,2892,37,'Mantenimiento de Rutas'
+912,4,912,4155,37,'Conservacion de Habitat Animal'
+913,4,913,2583,37,'Mantenimiento de Instalaciones'
+914,4,914,3562,37,'Mantenimiento de Rutas'
+915,4,915,4433,37,'Conservacion de Habitat Animal'
+916,4,916,2947,37,'Mantenimiento de Instalaciones'
+917,4,917,3012,37,'Mantenimiento de Rutas'
+918,4,918,3695,37,'Conservacion de Habitat Animal'
+919,4,919,2557,37,'Mantenimiento de Instalaciones'
+920,4,920,2698,37,'Mantenimiento de Rutas'
+921,4,921,4968,37,'Conservacion de Habitat Animal'
+922,4,922,2510,37,'Mantenimiento de Instalaciones'
+923,4,923,4465,37,'Mantenimiento de Rutas'
+924,4,924,3429,37,'Conservacion de Habitat Animal'
+925,4,925,3555,37,'Mantenimiento de Instalaciones'
+926,1,926,2773,38,'1'
+927,1,927,3478,38,'2'
+928,2,928,4049,38,NULL
+929,2,929,3435,38,NULL
+930,2,930,3978,38,NULL
+931,2,931,4327,38,NULL
+932,2,932,4447,38,NULL
+933,3,933,3491,38,'Licenciatura en Zoologia'
+934,3,934,3502,38,'Bachillerato en Botanica'
+935,3,935,2688,38,'Doctorado en Vida Marina'
+936,4,936,4288,38,'Mantenimiento de Rutas'
+937,4,937,3679,38,'Conservacion de Habitat Animal'
+938,4,938,3570,38,'Mantenimiento de Instalaciones'
+939,4,939,4611,38,'Mantenimiento de Rutas'
+940,4,940,3243,38,'Conservacion de Habitat Animal'
+941,4,941,2923,38,'Mantenimiento de Instalaciones'
+942,4,942,2960,38,'Mantenimiento de Rutas'
+943,4,943,3581,38,'Conservacion de Habitat Animal'
+944,4,944,2623,38,'Mantenimiento de Instalaciones'
+945,4,945,4805,38,'Mantenimiento de Rutas'
+946,4,946,4994,38,'Conservacion de Habitat Animal'
+947,4,947,2597,38,'Mantenimiento de Instalaciones'
+948,4,948,3910,38,'Mantenimiento de Rutas'
+949,4,949,2972,38,'Conservacion de Habitat Animal'
+950,4,950,3438,38,'Mantenimiento de Instalaciones'
+951,1,951,2718,39,'1'
+952,1,952,2611,39,'2'
+953,2,953,2553,39,NULL
+954,2,954,4335,39,NULL
+955,2,955,2904,39,NULL
+956,2,956,4296,39,NULL
+957,2,957,3865,39,NULL
+958,3,958,4162,39,'Licenciatura en Zoologia'
+959,3,959,2806,39,'Bachillerato en Botanica'
+960,3,960,4449,39,'Doctorado en Vida Marina'
+961,4,961,4766,39,'Mantenimiento de Rutas'
+962,4,962,3198,39,'Conservacion de Habitat Animal'
+963,4,963,4798,39,'Mantenimiento de Instalaciones'
+964,4,964,3296,39,'Mantenimiento de Rutas'
+965,4,965,3889,39,'Conservacion de Habitat Animal'
+966,4,966,4971,39,'Mantenimiento de Instalaciones'
+967,4,967,4486,39,'Mantenimiento de Rutas'
+968,4,968,4821,39,'Conservacion de Habitat Animal'
+969,4,969,2585,39,'Mantenimiento de Instalaciones'
+970,4,970,4574,39,'Mantenimiento de Rutas'
+971,4,971,4612,39,'Conservacion de Habitat Animal'
+972,4,972,3079,39,'Mantenimiento de Instalaciones'
+973,4,973,3059,39,'Mantenimiento de Rutas'
+974,4,974,3314,39,'Conservacion de Habitat Animal'
+975,4,975,2803,39,'Mantenimiento de Instalaciones'
+976,1,976,2500,40,'1'
+977,1,977,4561,40,'2'
+978,2,978,4775,40,NULL
+979,2,979,3645,40,NULL
+980,2,980,3909,40,NULL
+981,2,981,3950,40,NULL
+982,2,982,4018,40,NULL
+983,3,983,3285,40,'Licenciatura en Zoologia'
+984,3,984,3395,40,'Bachillerato en Botanica'
+985,3,985,3583,40,'Doctorado en Vida Marina'
+986,4,986,3073,40,'Mantenimiento de Rutas'
+987,4,987,4453,40,'Conservacion de Habitat Animal'
+988,4,988,3217,40,'Mantenimiento de Instalaciones'
+989,4,989,2788,40,'Mantenimiento de Rutas'
+990,4,990,3384,40,'Conservacion de Habitat Animal'
+991,4,991,3092,40,'Mantenimiento de Instalaciones'
+992,4,992,3911,40,'Mantenimiento de Rutas'
+993,4,993,4036,40,'Conservacion de Habitat Animal'
+994,4,994,4064,40,'Mantenimiento de Instalaciones'
+995,4,995,2901,40,'Mantenimiento de Rutas'
+996,4,996,3696,40,'Conservacion de Habitat Animal'
+997,4,997,3130,40,'Mantenimiento de Instalaciones'
+998,4,998,2710,40,'Mantenimiento de Rutas'
+999,4,999,2543,40,'Conservacion de Habitat Animal'
+1000,4,1000,4215,40,'Mantenimiento de Instalaciones'
+1001,1,1001,2856,41,'1'
+1002,1,1002,4358,41,'2'
+1003,2,1003,4048,41,NULL
+1004,2,1004,3600,41,NULL
+1005,2,1005,3185,41,NULL
+1006,2,1006,3390,41,NULL
+1007,2,1007,4841,41,NULL
+1008,3,1008,3726,41,'Licenciatura en Zoologia'
+1009,3,1009,3596,41,'Bachillerato en Botanica'
+1010,3,1010,3146,41,'Doctorado en Vida Marina'
+1011,4,1011,3234,41,'Mantenimiento de Rutas'
+1012,4,1012,3876,41,'Conservacion de Habitat Animal'
+1013,4,1013,4879,41,'Mantenimiento de Instalaciones'
+1014,4,1014,4457,41,'Mantenimiento de Rutas'
+1015,4,1015,3360,41,'Conservacion de Habitat Animal'
+1016,4,1016,3939,41,'Mantenimiento de Instalaciones'
+1017,4,1017,4122,41,'Mantenimiento de Rutas'
+1018,4,1018,3940,41,'Conservacion de Habitat Animal'
+1019,4,1019,3216,41,'Mantenimiento de Instalaciones'
+1020,4,1020,2986,41,'Mantenimiento de Rutas'
+1021,4,1021,2946,41,'Conservacion de Habitat Animal'
+1022,4,1022,3531,41,'Mantenimiento de Instalaciones'
+1023,4,1023,4039,41,'Mantenimiento de Rutas'
+1024,4,1024,3135,41,'Conservacion de Habitat Animal'
+1025,4,1025,3092,41,'Mantenimiento de Instalaciones'
+1026,1,1026,4444,42,'1'
+1027,1,1027,2840,42,'2'
+1028,2,1028,3556,42,NULL
+1029,2,1029,4206,42,NULL
+1030,2,1030,2929,42,NULL
+1031,2,1031,4276,42,NULL
+1032,2,1032,4366,42,NULL
+1033,3,1033,2780,42,'Licenciatura en Zoologia'
+1034,3,1034,2611,42,'Bachillerato en Botanica'
+1035,3,1035,4375,42,'Doctorado en Vida Marina'
+1036,4,1036,2997,42,'Mantenimiento de Rutas'
+1037,4,1037,4520,42,'Conservacion de Habitat Animal'
+1038,4,1038,3211,42,'Mantenimiento de Instalaciones'
+1039,4,1039,4002,42,'Mantenimiento de Rutas'
+1040,4,1040,4303,42,'Conservacion de Habitat Animal'
+1041,4,1041,3700,42,'Mantenimiento de Instalaciones'
+1042,4,1042,4350,42,'Mantenimiento de Rutas'
+1043,4,1043,4013,42,'Conservacion de Habitat Animal'
+1044,4,1044,3464,42,'Mantenimiento de Instalaciones'
+1045,4,1045,3835,42,'Mantenimiento de Rutas'
+1046,4,1046,3925,42,'Conservacion de Habitat Animal'
+1047,4,1047,2906,42,'Mantenimiento de Instalaciones'
+1048,4,1048,2919,42,'Mantenimiento de Rutas'
+1049,4,1049,3178,42,'Conservacion de Habitat Animal'
+1050,4,1050,4561,42,'Mantenimiento de Instalaciones'
+1051,1,1051,3277,43,'1'
+1052,1,1052,3344,43,'2'
+1053,2,1053,4990,43,NULL
+1054,2,1054,3467,43,NULL
+1055,2,1055,3495,43,NULL
+1056,2,1056,4189,43,NULL
+1057,2,1057,3193,43,NULL
+1058,3,1058,2833,43,'Licenciatura en Zoologia'
+1059,3,1059,4539,43,'Bachillerato en Botanica'
+1060,3,1060,4806,43,'Doctorado en Vida Marina'
+1061,4,1061,3118,43,'Mantenimiento de Rutas'
+1062,4,1062,4646,43,'Conservacion de Habitat Animal'
+1063,4,1063,4077,43,'Mantenimiento de Instalaciones'
+1064,4,1064,4887,43,'Mantenimiento de Rutas'
+1065,4,1065,2880,43,'Conservacion de Habitat Animal'
+1066,4,1066,2773,43,'Mantenimiento de Instalaciones'
+1067,4,1067,3988,43,'Mantenimiento de Rutas'
+1068,4,1068,2918,43,'Conservacion de Habitat Animal'
+1069,4,1069,4864,43,'Mantenimiento de Instalaciones'
+1070,4,1070,4903,43,'Mantenimiento de Rutas'
+1071,4,1071,4648,43,'Conservacion de Habitat Animal'
+1072,4,1072,3390,43,'Mantenimiento de Instalaciones'
+1073,4,1073,2932,43,'Mantenimiento de Rutas'
+1074,4,1074,3624,43,'Conservacion de Habitat Animal'
+1075,4,1075,2750,43,'Mantenimiento de Instalaciones'
+1076,1,1076,4037,44,'1'
+1077,1,1077,4986,44,'2'
+1078,2,1078,4337,44,NULL
+1079,2,1079,3641,44,NULL
+1080,2,1080,2658,44,NULL
+1081,2,1081,2664,44,NULL
+1082,2,1082,4407,44,NULL
+1083,3,1083,4242,44,'Licenciatura en Zoologia'
+1084,3,1084,4641,44,'Bachillerato en Botanica'
+1085,3,1085,3207,44,'Doctorado en Vida Marina'
+1086,4,1086,3612,44,'Mantenimiento de Rutas'
+1087,4,1087,4769,44,'Conservacion de Habitat Animal'
+1088,4,1088,3392,44,'Mantenimiento de Instalaciones'
+1089,4,1089,2730,44,'Mantenimiento de Rutas'
+1090,4,1090,3234,44,'Conservacion de Habitat Animal'
+1091,4,1091,3111,44,'Mantenimiento de Instalaciones'
+1092,4,1092,3105,44,'Mantenimiento de Rutas'
+1093,4,1093,3419,44,'Conservacion de Habitat Animal'
+1094,4,1094,4361,44,'Mantenimiento de Instalaciones'
+1095,4,1095,3694,44,'Mantenimiento de Rutas'
+1096,4,1096,2554,44,'Conservacion de Habitat Animal'
+1097,4,1097,4503,44,'Mantenimiento de Instalaciones'
+1098,4,1098,2511,44,'Mantenimiento de Rutas'
+1099,4,1099,3543,44,'Conservacion de Habitat Animal'
+1100,4,1100,3810,44,'Mantenimiento de Instalaciones'
+1101,1,1101,4610,45,'1'
+1102,1,1102,4004,45,'2'
+1103,2,1103,3244,45,NULL
+1104,2,1104,3569,45,NULL
+1105,2,1105,3059,45,NULL
+1106,2,1106,4629,45,NULL
+1107,2,1107,3438,45,NULL
+1108,3,1108,4213,45,'Licenciatura en Zoologia'
+1109,3,1109,3104,45,'Bachillerato en Botanica'
+1110,3,1110,4244,45,'Doctorado en Vida Marina'
+1111,4,1111,3745,45,'Mantenimiento de Rutas'
+1112,4,1112,2701,45,'Conservacion de Habitat Animal'
+1113,4,1113,3159,45,'Mantenimiento de Instalaciones'
+1114,4,1114,3455,45,'Mantenimiento de Rutas'
+1115,4,1115,3131,45,'Conservacion de Habitat Animal'
+1116,4,1116,4183,45,'Mantenimiento de Instalaciones'
+1117,4,1117,4708,45,'Mantenimiento de Rutas'
+1118,4,1118,2997,45,'Conservacion de Habitat Animal'
+1119,4,1119,4414,45,'Mantenimiento de Instalaciones'
+1120,4,1120,3788,45,'Mantenimiento de Rutas'
+1121,4,1121,3921,45,'Conservacion de Habitat Animal'
+1122,4,1122,2818,45,'Mantenimiento de Instalaciones'
+1123,4,1123,4698,45,'Mantenimiento de Rutas'
+1124,4,1124,3413,45,'Conservacion de Habitat Animal'
+1125,4,1125,4257,45,'Mantenimiento de Instalaciones'
+1126,1,1126,4846,46,'1'
+1127,1,1127,3568,46,'2'
+1128,2,1128,4450,46,NULL
+1129,2,1129,4868,46,NULL
+1130,2,1130,2703,46,NULL
+1131,2,1131,4376,46,NULL
+1132,2,1132,4248,46,NULL
+1133,3,1133,3127,46,'Licenciatura en Zoologia'
+1134,3,1134,4391,46,'Bachillerato en Botanica'
+1135,3,1135,3542,46,'Doctorado en Vida Marina'
+1136,4,1136,2666,46,'Mantenimiento de Rutas'
+1137,4,1137,2509,46,'Conservacion de Habitat Animal'
+1138,4,1138,3531,46,'Mantenimiento de Instalaciones'
+1139,4,1139,3081,46,'Mantenimiento de Rutas'
+1140,4,1140,3706,46,'Conservacion de Habitat Animal'
+1141,4,1141,3818,46,'Mantenimiento de Instalaciones'
+1142,4,1142,3618,46,'Mantenimiento de Rutas'
+1143,4,1143,4642,46,'Conservacion de Habitat Animal'
+1144,4,1144,4802,46,'Mantenimiento de Instalaciones'
+1145,4,1145,4616,46,'Mantenimiento de Rutas'
+1146,4,1146,4788,46,'Conservacion de Habitat Animal'
+1147,4,1147,4300,46,'Mantenimiento de Instalaciones'
+1148,4,1148,3491,46,'Mantenimiento de Rutas'
+1149,4,1149,3252,46,'Conservacion de Habitat Animal'
+1150,4,1150,4185,46,'Mantenimiento de Instalaciones'
+1151,1,1151,4854,47,'1'
+1152,1,1152,3538,47,'2'
+1153,2,1153,3714,47,NULL
+1154,2,1154,4857,47,NULL
+1155,2,1155,3395,47,NULL
+1156,2,1156,3570,47,NULL
+1157,2,1157,4611,47,NULL
+1158,3,1158,3223,47,'Licenciatura en Zoologia'
+1159,3,1159,3910,47,'Bachillerato en Botanica'
+1160,3,1160,3945,47,'Doctorado en Vida Marina'
+1161,4,1161,3669,47,'Mantenimiento de Rutas'
+1162,4,1162,3938,47,'Conservacion de Habitat Animal'
+1163,4,1163,4085,47,'Mantenimiento de Instalaciones'
+1164,4,1164,3297,47,'Mantenimiento de Rutas'
+1165,4,1165,3394,47,'Conservacion de Habitat Animal'
+1166,4,1166,3456,47,'Mantenimiento de Instalaciones'
+1167,4,1167,4571,47,'Mantenimiento de Rutas'
+1168,4,1168,4845,47,'Conservacion de Habitat Animal'
+1169,4,1169,3270,47,'Mantenimiento de Instalaciones'
+1170,4,1170,3566,47,'Mantenimiento de Rutas'
+1171,4,1171,3762,47,'Conservacion de Habitat Animal'
+1172,4,1172,3260,47,'Mantenimiento de Instalaciones'
+1173,4,1173,4499,47,'Mantenimiento de Rutas'
+1174,4,1174,4272,47,'Conservacion de Habitat Animal'
+1175,4,1175,4326,47,'Mantenimiento de Instalaciones'
+1176,1,1176,4746,48,'1'
+1177,1,1177,3785,48,'2'
+1178,2,1178,3580,48,NULL
+1179,2,1179,4783,48,NULL
+1180,2,1180,4136,48,NULL
+1181,2,1181,3313,48,NULL
+1182,2,1182,4867,48,NULL
+1183,3,1183,4379,48,'Licenciatura en Zoologia'
+1184,3,1184,2566,48,'Bachillerato en Botanica'
+1185,3,1185,4667,48,'Doctorado en Vida Marina'
+1186,4,1186,3791,48,'Mantenimiento de Rutas'
+1187,4,1187,2787,48,'Conservacion de Habitat Animal'
+1188,4,1188,3449,48,'Mantenimiento de Instalaciones'
+1189,4,1189,4403,48,'Mantenimiento de Rutas'
+1190,4,1190,2862,48,'Conservacion de Habitat Animal'
+1191,4,1191,4027,48,'Mantenimiento de Instalaciones'
+1192,4,1192,3457,48,'Mantenimiento de Rutas'
+1193,4,1193,2923,48,'Conservacion de Habitat Animal'
+1194,4,1194,4774,48,'Mantenimiento de Instalaciones'
+1195,4,1195,4962,48,'Mantenimiento de Rutas'
+1196,4,1196,4675,48,'Conservacion de Habitat Animal'
+1197,4,1197,2547,48,'Mantenimiento de Instalaciones'
+1198,4,1198,4005,48,'Mantenimiento de Rutas'
+1199,4,1199,4382,48,'Conservacion de Habitat Animal'
+1200,4,1200,3982,48,'Mantenimiento de Instalaciones'
+1201,1,1201,2560,49,'1'
+1202,1,1202,4286,49,'2'
+1203,2,1203,4620,49,NULL
+1204,2,1204,4712,49,NULL
+1205,2,1205,3003,49,NULL
+1206,2,1206,3548,49,NULL
+1207,2,1207,3805,49,NULL
+1208,3,1208,4734,49,'Licenciatura en Zoologia'
+1209,3,1209,4713,49,'Bachillerato en Botanica'
+1210,3,1210,4358,49,'Doctorado en Vida Marina'
+1211,4,1211,4216,49,'Mantenimiento de Rutas'
+1212,4,1212,2733,49,'Conservacion de Habitat Animal'
+1213,4,1213,3267,49,'Mantenimiento de Instalaciones'
+1214,4,1214,2712,49,'Mantenimiento de Rutas'
+1215,4,1215,3686,49,'Conservacion de Habitat Animal'
+1216,4,1216,3018,49,'Mantenimiento de Instalaciones'
+1217,4,1217,4792,49,'Mantenimiento de Rutas'
+1218,4,1218,4280,49,'Conservacion de Habitat Animal'
+1219,4,1219,3329,49,'Mantenimiento de Instalaciones'
+1220,4,1220,3647,49,'Mantenimiento de Rutas'
+1221,4,1221,4351,49,'Conservacion de Habitat Animal'
+1222,4,1222,4762,49,'Mantenimiento de Instalaciones'
+1223,4,1223,4075,49,'Mantenimiento de Rutas'
+1224,4,1224,2843,49,'Conservacion de Habitat Animal'
+1225,4,1225,4939,49,'Mantenimiento de Instalaciones'
+1226,1,1226,4692,50,'1'
+1227,1,1227,4827,50,'2'
+1228,2,1228,3730,50,NULL
+1229,2,1229,3572,50,NULL
+1230,2,1230,4165,50,NULL
+1231,2,1231,3494,50,NULL
+1232,2,1232,3634,50,NULL
+1233,3,1233,3732,50,'Licenciatura en Zoologia'
+1234,3,1234,3504,50,'Bachillerato en Botanica'
+1235,3,1235,4147,50,'Doctorado en Vida Marina'
+1236,4,1236,3443,50,'Mantenimiento de Rutas'
+1237,4,1237,4306,50,'Conservacion de Habitat Animal'
+1238,4,1238,2693,50,'Mantenimiento de Instalaciones'
+1239,4,1239,2633,50,'Mantenimiento de Rutas'
+1240,4,1240,2823,50,'Conservacion de Habitat Animal'
+1241,4,1241,3556,50,'Mantenimiento de Instalaciones'
+1242,4,1242,4855,50,'Mantenimiento de Rutas'
+1243,4,1243,3410,50,'Conservacion de Habitat Animal'
+1244,4,1244,3581,50,'Mantenimiento de Instalaciones'
+1245,4,1245,4703,50,'Mantenimiento de Rutas'
+1246,4,1246,4980,50,'Conservacion de Habitat Animal'
+1247,4,1247,4982,50,'Mantenimiento de Instalaciones'
+1248,4,1248,3368,50,'Mantenimiento de Rutas'
+1249,4,1249,4336,50,'Conservacion de Habitat Animal'
+1250,4,1250,3015,50,'Mantenimiento de Instalaciones'
+1251,1,1251,4049,51,'1'
+1252,1,1252,4902,51,'2'
+1253,2,1253,3737,51,NULL
+1254,2,1254,3407,51,NULL
+1255,2,1255,3965,51,NULL
+1256,2,1256,4376,51,NULL
+1257,2,1257,4019,51,NULL
+1258,3,1258,4449,51,'Licenciatura en Zoologia'
+1259,3,1259,3994,51,'Bachillerato en Botanica'
+1260,3,1260,3280,51,'Doctorado en Vida Marina'
+1261,4,1261,4440,51,'Mantenimiento de Rutas'
+1262,4,1262,2856,51,'Conservacion de Habitat Animal'
+1263,4,1263,3485,51,'Mantenimiento de Instalaciones'
+1264,4,1264,3665,51,'Mantenimiento de Rutas'
+1265,4,1265,3632,51,'Conservacion de Habitat Animal'
+1266,4,1266,2542,51,'Mantenimiento de Instalaciones'
+1267,4,1267,3980,51,'Mantenimiento de Rutas'
+1268,4,1268,4904,51,'Conservacion de Habitat Animal'
+1269,4,1269,3782,51,'Mantenimiento de Instalaciones'
+1270,4,1270,4645,51,'Mantenimiento de Rutas'
+1271,4,1271,3943,51,'Conservacion de Habitat Animal'
+1272,4,1272,3876,51,'Mantenimiento de Instalaciones'
+1273,4,1273,2803,51,'Mantenimiento de Rutas'
+1274,4,1274,4707,51,'Conservacion de Habitat Animal'
+1275,4,1275,3834,51,'Mantenimiento de Instalaciones'
+1276,1,1276,4381,52,'1'
+1277,1,1277,4556,52,'2'
+1278,2,1278,3329,52,NULL
+1279,2,1279,4498,52,NULL
+1280,2,1280,3684,52,NULL
+1281,2,1281,3196,52,NULL
+1282,2,1282,4052,52,NULL
+1283,3,1283,2647,52,'Licenciatura en Zoologia'
+1284,3,1284,2623,52,'Bachillerato en Botanica'
+1285,3,1285,4419,52,'Doctorado en Vida Marina'
+1286,4,1286,4548,52,'Mantenimiento de Rutas'
+1287,4,1287,4084,52,'Conservacion de Habitat Animal'
+1288,4,1288,3670,52,'Mantenimiento de Instalaciones'
+1289,4,1289,3103,52,'Mantenimiento de Rutas'
+1290,4,1290,2522,52,'Conservacion de Habitat Animal'
+1291,4,1291,4565,52,'Mantenimiento de Instalaciones'
+1292,4,1292,4740,52,'Mantenimiento de Rutas'
+1293,4,1293,2946,52,'Conservacion de Habitat Animal'
+1294,4,1294,3967,52,'Mantenimiento de Instalaciones'
+1295,4,1295,3626,52,'Mantenimiento de Rutas'
+1296,4,1296,4294,52,'Conservacion de Habitat Animal'
+1297,4,1297,2655,52,'Mantenimiento de Instalaciones'
+1298,4,1298,4267,52,'Mantenimiento de Rutas'
+1299,4,1299,3437,52,'Conservacion de Habitat Animal'
+1300,4,1300,2817,52,'Mantenimiento de Instalaciones'
+1301,1,1301,2581,53,'1'
+1302,1,1302,3994,53,'2'
+1303,2,1303,4584,53,NULL
+1304,2,1304,2547,53,NULL
+1305,2,1305,2970,53,NULL
+1306,2,1306,3251,53,NULL
+1307,2,1307,4779,53,NULL
+1308,3,1308,2809,53,'Licenciatura en Zoologia'
+1309,3,1309,4547,53,'Bachillerato en Botanica'
+1310,3,1310,3540,53,'Doctorado en Vida Marina'
+1311,4,1311,4451,53,'Mantenimiento de Rutas'
+1312,4,1312,4020,53,'Conservacion de Habitat Animal'
+1313,4,1313,3750,53,'Mantenimiento de Instalaciones'
+1314,4,1314,3224,53,'Mantenimiento de Rutas'
+1315,4,1315,2993,53,'Conservacion de Habitat Animal'
+1316,4,1316,4406,53,'Mantenimiento de Instalaciones'
+1317,4,1317,4894,53,'Mantenimiento de Rutas'
+1318,4,1318,4513,53,'Conservacion de Habitat Animal'
+1319,4,1319,2511,53,'Mantenimiento de Instalaciones'
+1320,4,1320,4114,53,'Mantenimiento de Rutas'
+1321,4,1321,4055,53,'Conservacion de Habitat Animal'
+1322,4,1322,3519,53,'Mantenimiento de Instalaciones'
+1323,4,1323,3472,53,'Mantenimiento de Rutas'
+1324,4,1324,2800,53,'Conservacion de Habitat Animal'
+1325,4,1325,4246,53,'Mantenimiento de Instalaciones'
+1326,1,1326,2715,54,'1'
+1327,1,1327,3380,54,'2'
+1328,2,1328,2861,54,NULL
+1329,2,1329,4062,54,NULL
+1330,2,1330,3995,54,NULL
+1331,2,1331,3517,54,NULL
+1332,2,1332,4839,54,NULL
+1333,3,1333,2896,54,'Licenciatura en Zoologia'
+1334,3,1334,4528,54,'Bachillerato en Botanica'
+1335,3,1335,3620,54,'Doctorado en Vida Marina'
+1336,4,1336,3844,54,'Mantenimiento de Rutas'
+1337,4,1337,3331,54,'Conservacion de Habitat Animal'
+1338,4,1338,3030,54,'Mantenimiento de Instalaciones'
+1339,4,1339,3301,54,'Mantenimiento de Rutas'
+1340,4,1340,2582,54,'Conservacion de Habitat Animal'
+1341,4,1341,3031,54,'Mantenimiento de Instalaciones'
+1342,4,1342,2542,54,'Mantenimiento de Rutas'
+1343,4,1343,4350,54,'Conservacion de Habitat Animal'
+1344,4,1344,2849,54,'Mantenimiento de Instalaciones'
+1345,4,1345,3715,54,'Mantenimiento de Rutas'
+1346,4,1346,3157,54,'Conservacion de Habitat Animal'
+1347,4,1347,3984,54,'Mantenimiento de Instalaciones'
+1348,4,1348,3467,54,'Mantenimiento de Rutas'
+1349,4,1349,3584,54,'Conservacion de Habitat Animal'
+1350,4,1350,3922,54,'Mantenimiento de Instalaciones'
+1351,1,1351,4915,55,'1'
+1352,1,1352,4893,55,'2'
+1353,2,1353,2537,55,NULL
+1354,2,1354,4526,55,NULL
+1355,2,1355,2769,55,NULL
+1356,2,1356,3832,55,NULL
+1357,2,1357,4478,55,NULL
+1358,3,1358,2747,55,'Licenciatura en Zoologia'
+1359,3,1359,4693,55,'Bachillerato en Botanica'
+1360,3,1360,4033,55,'Doctorado en Vida Marina'
+1361,4,1361,4632,55,'Mantenimiento de Rutas'
+1362,4,1362,2751,55,'Conservacion de Habitat Animal'
+1363,4,1363,3916,55,'Mantenimiento de Instalaciones'
+1364,4,1364,3292,55,'Mantenimiento de Rutas'
+1365,4,1365,3388,55,'Conservacion de Habitat Animal'
+1366,4,1366,3569,55,'Mantenimiento de Instalaciones'
+1367,4,1367,4302,55,'Mantenimiento de Rutas'
+1368,4,1368,4357,55,'Conservacion de Habitat Animal'
+1369,4,1369,2875,55,'Mantenimiento de Instalaciones'
+1370,4,1370,3198,55,'Mantenimiento de Rutas'
+1371,4,1371,4239,55,'Conservacion de Habitat Animal'
+1372,4,1372,4988,55,'Mantenimiento de Instalaciones'
+1373,4,1373,4549,55,'Mantenimiento de Rutas'
+1374,4,1374,4174,55,'Conservacion de Habitat Animal'
+1375,4,1375,4621,55,'Mantenimiento de Instalaciones'
+1376,1,1376,4396,56,'1'
+1377,1,1377,4235,56,'2'
+1378,2,1378,3050,56,NULL
+1379,2,1379,3336,56,NULL
+1380,2,1380,3437,56,NULL
+1381,2,1381,3127,56,NULL
+1382,2,1382,4247,56,NULL
+1383,3,1383,4163,56,'Licenciatura en Zoologia'
+1384,3,1384,4840,56,'Bachillerato en Botanica'
+1385,3,1385,4983,56,'Doctorado en Vida Marina'
+1386,4,1386,4961,56,'Mantenimiento de Rutas'
+1387,4,1387,2706,56,'Conservacion de Habitat Animal'
+1388,4,1388,4601,56,'Mantenimiento de Instalaciones'
+1389,4,1389,2547,56,'Mantenimiento de Rutas'
+1390,4,1390,3892,56,'Conservacion de Habitat Animal'
+1391,4,1391,4103,56,'Mantenimiento de Instalaciones'
+1392,4,1392,3184,56,'Mantenimiento de Rutas'
+1393,4,1393,4971,56,'Conservacion de Habitat Animal'
+1394,4,1394,4703,56,'Mantenimiento de Instalaciones'
+1395,4,1395,3438,56,'Mantenimiento de Rutas'
+1396,4,1396,4188,56,'Conservacion de Habitat Animal'
+1397,4,1397,3373,56,'Mantenimiento de Instalaciones'
+1398,4,1398,4421,56,'Mantenimiento de Rutas'
+1399,4,1399,4933,56,'Conservacion de Habitat Animal'
+1400,4,1400,4807,56,'Mantenimiento de Instalaciones'
+1401,1,1401,4912,57,'1'
+1402,1,1402,2853,57,'2'
+1403,2,1403,3749,57,NULL
+1404,2,1404,4108,57,NULL
+1405,2,1405,3964,57,NULL
+1406,2,1406,4381,57,NULL
+1407,2,1407,2860,57,NULL
+1408,3,1408,3569,57,'Licenciatura en Zoologia'
+1409,3,1409,2569,57,'Bachillerato en Botanica'
+1410,3,1410,4650,57,'Doctorado en Vida Marina'
+1411,4,1411,3791,57,'Mantenimiento de Rutas'
+1412,4,1412,4349,57,'Conservacion de Habitat Animal'
+1413,4,1413,3459,57,'Mantenimiento de Instalaciones'
+1414,4,1414,3547,57,'Mantenimiento de Rutas'
+1415,4,1415,3938,57,'Conservacion de Habitat Animal'
+1416,4,1416,3267,57,'Mantenimiento de Instalaciones'
+1417,4,1417,3226,57,'Mantenimiento de Rutas'
+1418,4,1418,4239,57,'Conservacion de Habitat Animal'
+1419,4,1419,3183,57,'Mantenimiento de Instalaciones'
+1420,4,1420,3105,57,'Mantenimiento de Rutas'
+1421,4,1421,4935,57,'Conservacion de Habitat Animal'
+1422,4,1422,4679,57,'Mantenimiento de Instalaciones'
+1423,4,1423,3704,57,'Mantenimiento de Rutas'
+1424,4,1424,3290,57,'Conservacion de Habitat Animal'
+1425,4,1425,3061,57,'Mantenimiento de Instalaciones'
+1426,1,1426,3571,58,'1'
+1427,1,1427,3223,58,'2'
+1428,2,1428,4777,58,NULL
+1429,2,1429,4822,58,NULL
+1430,2,1430,2562,58,NULL
+1431,2,1431,3404,58,NULL
+1432,2,1432,4048,58,NULL
+1433,3,1433,4519,58,'Licenciatura en Zoologia'
+1434,3,1434,3565,58,'Bachillerato en Botanica'
+1435,3,1435,2843,58,'Doctorado en Vida Marina'
+1436,4,1436,4350,58,'Mantenimiento de Rutas'
+1437,4,1437,3227,58,'Conservacion de Habitat Animal'
+1438,4,1438,3915,58,'Mantenimiento de Instalaciones'
+1439,4,1439,4557,58,'Mantenimiento de Rutas'
+1440,4,1440,3437,58,'Conservacion de Habitat Animal'
+1441,4,1441,3800,58,'Mantenimiento de Instalaciones'
+1442,4,1442,4638,58,'Mantenimiento de Rutas'
+1443,4,1443,4765,58,'Conservacion de Habitat Animal'
+1444,4,1444,2889,58,'Mantenimiento de Instalaciones'
+1445,4,1445,4687,58,'Mantenimiento de Rutas'
+1446,4,1446,2905,58,'Conservacion de Habitat Animal'
+1447,4,1447,3086,58,'Mantenimiento de Instalaciones'
+1448,4,1448,2910,58,'Mantenimiento de Rutas'
+1449,4,1449,4891,58,'Conservacion de Habitat Animal'
+1450,4,1450,4962,58,'Mantenimiento de Instalaciones'
+1451,1,1451,3433,59,'1'
+1452,1,1452,3274,59,'2'
+1453,2,1453,3556,59,NULL
+1454,2,1454,2552,59,NULL
+1455,2,1455,2862,59,NULL
+1456,2,1456,3631,59,NULL
+1457,2,1457,2754,59,NULL
+1458,3,1458,3417,59,'Licenciatura en Zoologia'
+1459,3,1459,4231,59,'Bachillerato en Botanica'
+1460,3,1460,2582,59,'Doctorado en Vida Marina'
+1461,4,1461,3443,59,'Mantenimiento de Rutas'
+1462,4,1462,3096,59,'Conservacion de Habitat Animal'
+1463,4,1463,4006,59,'Mantenimiento de Instalaciones'
+1464,4,1464,4189,59,'Mantenimiento de Rutas'
+1465,4,1465,3493,59,'Conservacion de Habitat Animal'
+1466,4,1466,3075,59,'Mantenimiento de Instalaciones'
+1467,4,1467,4259,59,'Mantenimiento de Rutas'
+1468,4,1468,4185,59,'Conservacion de Habitat Animal'
+1469,4,1469,4300,59,'Mantenimiento de Instalaciones'
+1470,4,1470,4579,59,'Mantenimiento de Rutas'
+1471,4,1471,3292,59,'Conservacion de Habitat Animal'
+1472,4,1472,4992,59,'Mantenimiento de Instalaciones'
+1473,4,1473,3799,59,'Mantenimiento de Rutas'
+1474,4,1474,4700,59,'Conservacion de Habitat Animal'
+1475,4,1475,3039,59,'Mantenimiento de Instalaciones'
+1476,1,1476,4633,60,'1'
+1477,1,1477,3709,60,'2'
+1478,2,1478,4593,60,NULL
+1479,2,1479,4713,60,NULL
+1480,2,1480,3875,60,NULL
+1481,2,1481,4028,60,NULL
+1482,2,1482,2688,60,NULL
+1483,3,1483,4345,60,'Licenciatura en Zoologia'
+1484,3,1484,4942,60,'Bachillerato en Botanica'
+1485,3,1485,3208,60,'Doctorado en Vida Marina'
+1486,4,1486,3821,60,'Mantenimiento de Rutas'
+1487,4,1487,3402,60,'Conservacion de Habitat Animal'
+1488,4,1488,3499,60,'Mantenimiento de Instalaciones'
+1489,4,1489,3498,60,'Mantenimiento de Rutas'
+1490,4,1490,3246,60,'Conservacion de Habitat Animal'
+1491,4,1491,4779,60,'Mantenimiento de Instalaciones'
+1492,4,1492,3730,60,'Mantenimiento de Rutas'
+1493,4,1493,3584,60,'Conservacion de Habitat Animal'
+1494,4,1494,3885,60,'Mantenimiento de Instalaciones'
+1495,4,1495,3600,60,'Mantenimiento de Rutas'
+1496,4,1496,3962,60,'Conservacion de Habitat Animal'
+1497,4,1497,3055,60,'Mantenimiento de Instalaciones'
+1498,4,1498,2703,60,'Mantenimiento de Rutas'
+1499,4,1499,4005,60,'Conservacion de Habitat Animal'
+1500,4,1500,4487,60,'Mantenimiento de Instalaciones'
+1501,1,1501,4896,61,'1'
+1502,1,1502,3251,61,'2'
+1503,2,1503,2800,61,NULL
+1504,2,1504,4604,61,NULL
+1505,2,1505,4918,61,NULL
+1506,2,1506,3206,61,NULL
+1507,2,1507,3504,61,NULL
+1508,3,1508,4008,61,'Licenciatura en Zoologia'
+1509,3,1509,4278,61,'Bachillerato en Botanica'
+1510,3,1510,4190,61,'Doctorado en Vida Marina'
+1511,4,1511,3198,61,'Mantenimiento de Rutas'
+1512,4,1512,3179,61,'Conservacion de Habitat Animal'
+1513,4,1513,4262,61,'Mantenimiento de Instalaciones'
+1514,4,1514,4576,61,'Mantenimiento de Rutas'
+1515,4,1515,4719,61,'Conservacion de Habitat Animal'
+1516,4,1516,2980,61,'Mantenimiento de Instalaciones'
+1517,4,1517,3776,61,'Mantenimiento de Rutas'
+1518,4,1518,4724,61,'Conservacion de Habitat Animal'
+1519,4,1519,4314,61,'Mantenimiento de Instalaciones'
+1520,4,1520,3370,61,'Mantenimiento de Rutas'
+1521,4,1521,4188,61,'Conservacion de Habitat Animal'
+1522,4,1522,2621,61,'Mantenimiento de Instalaciones'
+1523,4,1523,2762,61,'Mantenimiento de Rutas'
+1524,4,1524,4980,61,'Conservacion de Habitat Animal'
+1525,4,1525,2724,61,'Mantenimiento de Instalaciones'
+1526,1,1526,2892,62,'1'
+1527,1,1527,4249,62,'2'
+1528,2,1528,2512,62,NULL
+1529,2,1529,3207,62,NULL
+1530,2,1530,2773,62,NULL
+1531,2,1531,3659,62,NULL
+1532,2,1532,4534,62,NULL
+1533,3,1533,3548,62,'Licenciatura en Zoologia'
+1534,3,1534,3186,62,'Bachillerato en Botanica'
+1535,3,1535,2899,62,'Doctorado en Vida Marina'
+1536,4,1536,4953,62,'Mantenimiento de Rutas'
+1537,4,1537,2668,62,'Conservacion de Habitat Animal'
+1538,4,1538,4918,62,'Mantenimiento de Instalaciones'
+1539,4,1539,3413,62,'Mantenimiento de Rutas'
+1540,4,1540,4620,62,'Conservacion de Habitat Animal'
+1541,4,1541,3819,62,'Mantenimiento de Instalaciones'
+1542,4,1542,2652,62,'Mantenimiento de Rutas'
+1543,4,1543,2763,62,'Conservacion de Habitat Animal'
+1544,4,1544,3070,62,'Mantenimiento de Instalaciones'
+1545,4,1545,4654,62,'Mantenimiento de Rutas'
+1546,4,1546,3940,62,'Conservacion de Habitat Animal'
+1547,4,1547,4543,62,'Mantenimiento de Instalaciones'
+1548,4,1548,4081,62,'Mantenimiento de Rutas'
+1549,4,1549,4368,62,'Conservacion de Habitat Animal'
+1550,4,1550,2971,62,'Mantenimiento de Instalaciones'
+1551,1,1551,2664,63,'1'
+1552,1,1552,3241,63,'2'
+1553,2,1553,3079,63,NULL
+1554,2,1554,3695,63,NULL
+1555,2,1555,2682,63,NULL
+1556,2,1556,3864,63,NULL
+1557,2,1557,3892,63,NULL
+1558,3,1558,4196,63,'Licenciatura en Zoologia'
+1559,3,1559,3035,63,'Bachillerato en Botanica'
+1560,3,1560,3217,63,'Doctorado en Vida Marina'
+1561,4,1561,2697,63,'Mantenimiento de Rutas'
+1562,4,1562,2655,63,'Conservacion de Habitat Animal'
+1563,4,1563,3449,63,'Mantenimiento de Instalaciones'
+1564,4,1564,3701,63,'Mantenimiento de Rutas'
+1565,4,1565,3477,63,'Conservacion de Habitat Animal'
+1566,4,1566,4625,63,'Mantenimiento de Instalaciones'
+1567,4,1567,3567,63,'Mantenimiento de Rutas'
+1568,4,1568,3544,63,'Conservacion de Habitat Animal'
+1569,4,1569,4129,63,'Mantenimiento de Instalaciones'
+1570,4,1570,4942,63,'Mantenimiento de Rutas'
+1571,4,1571,4289,63,'Conservacion de Habitat Animal'
+1572,4,1572,3206,63,'Mantenimiento de Instalaciones'
+1573,4,1573,4566,63,'Mantenimiento de Rutas'
+1574,4,1574,2970,63,'Conservacion de Habitat Animal'
+1575,4,1575,3621,63,'Mantenimiento de Instalaciones'
+1576,1,1576,3742,64,'1'
+1577,1,1577,2914,64,'2'
+1578,2,1578,4259,64,NULL
+1579,2,1579,2849,64,NULL
+1580,2,1580,4874,64,NULL
+1581,2,1581,3258,64,NULL
+1582,2,1582,3766,64,NULL
+1583,3,1583,4241,64,'Licenciatura en Zoologia'
+1584,3,1584,4355,64,'Bachillerato en Botanica'
+1585,3,1585,4676,64,'Doctorado en Vida Marina'
+1586,4,1586,4800,64,'Mantenimiento de Rutas'
+1587,4,1587,4463,64,'Conservacion de Habitat Animal'
+1588,4,1588,4460,64,'Mantenimiento de Instalaciones'
+1589,4,1589,4208,64,'Mantenimiento de Rutas'
+1590,4,1590,3289,64,'Conservacion de Habitat Animal'
+1591,4,1591,2504,64,'Mantenimiento de Instalaciones'
+1592,4,1592,3401,64,'Mantenimiento de Rutas'
+1593,4,1593,3923,64,'Conservacion de Habitat Animal'
+1594,4,1594,2805,64,'Mantenimiento de Instalaciones'
+1595,4,1595,4171,64,'Mantenimiento de Rutas'
+1596,4,1596,2870,64,'Conservacion de Habitat Animal'
+1597,4,1597,4127,64,'Mantenimiento de Instalaciones'
+1598,4,1598,4663,64,'Mantenimiento de Rutas'
+1599,4,1599,4519,64,'Conservacion de Habitat Animal'
+1600,4,1600,2695,64,'Mantenimiento de Instalaciones'
+1601,1,1601,3431,65,'1'
+1602,1,1602,2564,65,'2'
+1603,2,1603,3056,65,NULL
+1604,2,1604,3252,65,NULL
+1605,2,1605,3868,65,NULL
+1606,2,1606,4716,65,NULL
+1607,2,1607,3739,65,NULL
+1608,3,1608,2865,65,'Licenciatura en Zoologia'
+1609,3,1609,3916,65,'Bachillerato en Botanica'
+1610,3,1610,4424,65,'Doctorado en Vida Marina'
+1611,4,1611,4917,65,'Mantenimiento de Rutas'
+1612,4,1612,3152,65,'Conservacion de Habitat Animal'
+1613,4,1613,3575,65,'Mantenimiento de Instalaciones'
+1614,4,1614,3185,65,'Mantenimiento de Rutas'
+1615,4,1615,4821,65,'Conservacion de Habitat Animal'
+1616,4,1616,4379,65,'Mantenimiento de Instalaciones'
+1617,4,1617,2849,65,'Mantenimiento de Rutas'
+1618,4,1618,3558,65,'Conservacion de Habitat Animal'
+1619,4,1619,3250,65,'Mantenimiento de Instalaciones'
+1620,4,1620,4138,65,'Mantenimiento de Rutas'
+1621,4,1621,3546,65,'Conservacion de Habitat Animal'
+1622,4,1622,3227,65,'Mantenimiento de Instalaciones'
+1623,4,1623,2996,65,'Mantenimiento de Rutas'
+1624,4,1624,3850,65,'Conservacion de Habitat Animal'
+1625,4,1625,4656,65,'Mantenimiento de Instalaciones'
+1626,1,1626,3663,66,'1'
+1627,1,1627,3674,66,'2'
+1628,2,1628,3149,66,NULL
+1629,2,1629,2911,66,NULL
+1630,2,1630,2868,66,NULL
+1631,2,1631,4758,66,NULL
+1632,2,1632,4476,66,NULL
+1633,3,1633,4403,66,'Licenciatura en Zoologia'
+1634,3,1634,2670,66,'Bachillerato en Botanica'
+1635,3,1635,4193,66,'Doctorado en Vida Marina'
+1636,4,1636,4646,66,'Mantenimiento de Rutas'
+1637,4,1637,3170,66,'Conservacion de Habitat Animal'
+1638,4,1638,3923,66,'Mantenimiento de Instalaciones'
+1639,4,1639,3110,66,'Mantenimiento de Rutas'
+1640,4,1640,3354,66,'Conservacion de Habitat Animal'
+1641,4,1641,4487,66,'Mantenimiento de Instalaciones'
+1642,4,1642,3061,66,'Mantenimiento de Rutas'
+1643,4,1643,4836,66,'Conservacion de Habitat Animal'
+1644,4,1644,3108,66,'Mantenimiento de Instalaciones'
+1645,4,1645,2722,66,'Mantenimiento de Rutas'
+1646,4,1646,3523,66,'Conservacion de Habitat Animal'
+1647,4,1647,3081,66,'Mantenimiento de Instalaciones'
+1648,4,1648,3062,66,'Mantenimiento de Rutas'
+1649,4,1649,3062,66,'Conservacion de Habitat Animal'
+1650,4,1650,3642,66,'Mantenimiento de Instalaciones'
+1651,1,1651,2860,67,'1'
+1652,1,1652,2846,67,'2'
+1653,2,1653,2794,67,NULL
+1654,2,1654,3663,67,NULL
+1655,2,1655,4592,67,NULL
+1656,2,1656,4015,67,NULL
+1657,2,1657,4399,67,NULL
+1658,3,1658,4137,67,'Licenciatura en Zoologia'
+1659,3,1659,2505,67,'Bachillerato en Botanica'
+1660,3,1660,4383,67,'Doctorado en Vida Marina'
+1661,4,1661,4962,67,'Mantenimiento de Rutas'
+1662,4,1662,3796,67,'Conservacion de Habitat Animal'
+1663,4,1663,4604,67,'Mantenimiento de Instalaciones'
+1664,4,1664,4787,67,'Mantenimiento de Rutas'
+1665,4,1665,3382,67,'Conservacion de Habitat Animal'
+1666,4,1666,2561,67,'Mantenimiento de Instalaciones'
+1667,4,1667,4873,67,'Mantenimiento de Rutas'
+1668,4,1668,2992,67,'Conservacion de Habitat Animal'
+1669,4,1669,4440,67,'Mantenimiento de Instalaciones'
+1670,4,1670,3244,67,'Mantenimiento de Rutas'
+1671,4,1671,3834,67,'Conservacion de Habitat Animal'
+1672,4,1672,3786,67,'Mantenimiento de Instalaciones'
+1673,4,1673,3030,67,'Mantenimiento de Rutas'
+1674,4,1674,4869,67,'Conservacion de Habitat Animal'
+1675,4,1675,4116,67,'Mantenimiento de Instalaciones'
+1676,1,1676,4894,68,'1'
+1677,1,1677,4469,68,'2'
+1678,2,1678,4679,68,NULL
+1679,2,1679,3928,68,NULL
+1680,2,1680,2631,68,NULL
+1681,2,1681,2540,68,NULL
+1682,2,1682,2856,68,NULL
+1683,3,1683,2967,68,'Licenciatura en Zoologia'
+1684,3,1684,3867,68,'Bachillerato en Botanica'
+1685,3,1685,3984,68,'Doctorado en Vida Marina'
+1686,4,1686,4267,68,'Mantenimiento de Rutas'
+1687,4,1687,3641,68,'Conservacion de Habitat Animal'
+1688,4,1688,4612,68,'Mantenimiento de Instalaciones'
+1689,4,1689,3001,68,'Mantenimiento de Rutas'
+1690,4,1690,4265,68,'Conservacion de Habitat Animal'
+1691,4,1691,4371,68,'Mantenimiento de Instalaciones'
+1692,4,1692,2949,68,'Mantenimiento de Rutas'
+1693,4,1693,4086,68,'Conservacion de Habitat Animal'
+1694,4,1694,4230,68,'Mantenimiento de Instalaciones'
+1695,4,1695,2624,68,'Mantenimiento de Rutas'
+1696,4,1696,4674,68,'Conservacion de Habitat Animal'
+1697,4,1697,4169,68,'Mantenimiento de Instalaciones'
+1698,4,1698,4121,68,'Mantenimiento de Rutas'
+1699,4,1699,4793,68,'Conservacion de Habitat Animal'
+1700,4,1700,4501,68,'Mantenimiento de Instalaciones'
+1701,1,1701,4968,69,'1'
+1702,1,1702,4235,69,'2'
+1703,2,1703,4531,69,NULL
+1704,2,1704,2938,69,NULL
+1705,2,1705,4265,69,NULL
+1706,2,1706,2543,69,NULL
+1707,2,1707,2591,69,NULL
+1708,3,1708,4454,69,'Licenciatura en Zoologia'
+1709,3,1709,4415,69,'Bachillerato en Botanica'
+1710,3,1710,2904,69,'Doctorado en Vida Marina'
+1711,4,1711,3452,69,'Mantenimiento de Rutas'
+1712,4,1712,3837,69,'Conservacion de Habitat Animal'
+1713,4,1713,3294,69,'Mantenimiento de Instalaciones'
+1714,4,1714,4078,69,'Mantenimiento de Rutas'
+1715,4,1715,3863,69,'Conservacion de Habitat Animal'
+1716,4,1716,3772,69,'Mantenimiento de Instalaciones'
+1717,4,1717,3582,69,'Mantenimiento de Rutas'
+1718,4,1718,4314,69,'Conservacion de Habitat Animal'
+1719,4,1719,3688,69,'Mantenimiento de Instalaciones'
+1720,4,1720,3372,69,'Mantenimiento de Rutas'
+1721,4,1721,3947,69,'Conservacion de Habitat Animal'
+1722,4,1722,4653,69,'Mantenimiento de Instalaciones'
+1723,4,1723,4888,69,'Mantenimiento de Rutas'
+1724,4,1724,3031,69,'Conservacion de Habitat Animal'
+1725,4,1725,4182,69,'Mantenimiento de Instalaciones'
+1726,1,1726,4717,70,'1'
+1727,1,1727,2862,70,'2'
+1728,2,1728,2773,70,NULL
+1729,2,1729,2715,70,NULL
+1730,2,1730,3577,70,NULL
+1731,2,1731,4775,70,NULL
+1732,2,1732,2521,70,NULL
+1733,3,1733,3174,70,'Licenciatura en Zoologia'
+1734,3,1734,4832,70,'Bachillerato en Botanica'
+1735,3,1735,3766,70,'Doctorado en Vida Marina'
+1736,4,1736,2505,70,'Mantenimiento de Rutas'
+1737,4,1737,3935,70,'Conservacion de Habitat Animal'
+1738,4,1738,4226,70,'Mantenimiento de Instalaciones'
+1739,4,1739,2938,70,'Mantenimiento de Rutas'
+1740,4,1740,4434,70,'Conservacion de Habitat Animal'
+1741,4,1741,4014,70,'Mantenimiento de Instalaciones'
+1742,4,1742,4355,70,'Mantenimiento de Rutas'
+1743,4,1743,3231,70,'Conservacion de Habitat Animal'
+1744,4,1744,2655,70,'Mantenimiento de Instalaciones'
+1745,4,1745,3036,70,'Mantenimiento de Rutas'
+1746,4,1746,4563,70,'Conservacion de Habitat Animal'
+1747,4,1747,4227,70,'Mantenimiento de Instalaciones'
+1748,4,1748,4316,70,'Mantenimiento de Rutas'
+1749,4,1749,3335,70,'Conservacion de Habitat Animal'
+1750,4,1750,4398,70,'Mantenimiento de Instalaciones'
+1751,1,1751,4895,71,'1'
+1752,1,1752,4700,71,'2'
+1753,2,1753,4342,71,NULL
+1754,2,1754,3714,71,NULL
+1755,2,1755,4481,71,NULL
+1756,2,1756,2667,71,NULL
+1757,2,1757,4611,71,NULL
+1758,3,1758,3843,71,'Licenciatura en Zoologia'
+1759,3,1759,2522,71,'Bachillerato en Botanica'
+1760,3,1760,3899,71,'Doctorado en Vida Marina'
+1761,4,1761,3248,71,'Mantenimiento de Rutas'
+1762,4,1762,4386,71,'Conservacion de Habitat Animal'
+1763,4,1763,4916,71,'Mantenimiento de Instalaciones'
+1764,4,1764,4028,71,'Mantenimiento de Rutas'
+1765,4,1765,2834,71,'Conservacion de Habitat Animal'
+1766,4,1766,2697,71,'Mantenimiento de Instalaciones'
+1767,4,1767,4831,71,'Mantenimiento de Rutas'
+1768,4,1768,2538,71,'Conservacion de Habitat Animal'
+1769,4,1769,3143,71,'Mantenimiento de Instalaciones'
+1770,4,1770,3608,71,'Mantenimiento de Rutas'
+1771,4,1771,4015,71,'Conservacion de Habitat Animal'
+1772,4,1772,3553,71,'Mantenimiento de Instalaciones'
+1773,4,1773,3459,71,'Mantenimiento de Rutas'
+1774,4,1774,4151,71,'Conservacion de Habitat Animal'
+1775,4,1775,2759,71,'Mantenimiento de Instalaciones'
+1776,1,1776,4877,72,'1'
+1777,1,1777,3125,72,'2'
+1778,2,1778,4891,72,NULL
+1779,2,1779,4921,72,NULL
+1780,2,1780,4057,72,NULL
+1781,2,1781,4240,72,NULL
+1782,2,1782,2699,72,NULL
+1783,3,1783,4523,72,'Licenciatura en Zoologia'
+1784,3,1784,4296,72,'Bachillerato en Botanica'
+1785,3,1785,3771,72,'Doctorado en Vida Marina'
+1786,4,1786,2849,72,'Mantenimiento de Rutas'
+1787,4,1787,4364,72,'Conservacion de Habitat Animal'
+1788,4,1788,3239,72,'Mantenimiento de Instalaciones'
+1789,4,1789,3971,72,'Mantenimiento de Rutas'
+1790,4,1790,4103,72,'Conservacion de Habitat Animal'
+1791,4,1791,2845,72,'Mantenimiento de Instalaciones'
+1792,4,1792,3326,72,'Mantenimiento de Rutas'
+1793,4,1793,2668,72,'Conservacion de Habitat Animal'
+1794,4,1794,3705,72,'Mantenimiento de Instalaciones'
+1795,4,1795,3467,72,'Mantenimiento de Rutas'
+1796,4,1796,3503,72,'Conservacion de Habitat Animal'
+1797,4,1797,2896,72,'Mantenimiento de Instalaciones'
+1798,4,1798,3385,72,'Mantenimiento de Rutas'
+1799,4,1799,4580,72,'Conservacion de Habitat Animal'
+1800,4,1800,4589,72,'Mantenimiento de Instalaciones'
+1801,1,1801,4343,73,'1'
+1802,1,1802,4182,73,'2'
+1803,2,1803,3897,73,NULL
+1804,2,1804,4180,73,NULL
+1805,2,1805,4317,73,NULL
+1806,2,1806,2521,73,NULL
+1807,2,1807,3498,73,NULL
+1808,3,1808,4848,73,'Licenciatura en Zoologia'
+1809,3,1809,4986,73,'Bachillerato en Botanica'
+1810,3,1810,3219,73,'Doctorado en Vida Marina'
+1811,4,1811,4949,73,'Mantenimiento de Rutas'
+1812,4,1812,4654,73,'Conservacion de Habitat Animal'
+1813,4,1813,2965,73,'Mantenimiento de Instalaciones'
+1814,4,1814,4240,73,'Mantenimiento de Rutas'
+1815,4,1815,4611,73,'Conservacion de Habitat Animal'
+1816,4,1816,4154,73,'Mantenimiento de Instalaciones'
+1817,4,1817,3537,73,'Mantenimiento de Rutas'
+1818,4,1818,4205,73,'Conservacion de Habitat Animal'
+1819,4,1819,4542,73,'Mantenimiento de Instalaciones'
+1820,4,1820,3610,73,'Mantenimiento de Rutas'
+1821,4,1821,4537,73,'Conservacion de Habitat Animal'
+1822,4,1822,3993,73,'Mantenimiento de Instalaciones'
+1823,4,1823,3865,73,'Mantenimiento de Rutas'
+1824,4,1824,3386,73,'Conservacion de Habitat Animal'
+1825,4,1825,4024,73,'Mantenimiento de Instalaciones'
+1826,1,1826,3025,74,'1'
+1827,1,1827,2692,74,'2'
+1828,2,1828,2569,74,NULL
+1829,2,1829,3527,74,NULL
+1830,2,1830,2825,74,NULL
+1831,2,1831,4899,74,NULL
+1832,2,1832,3047,74,NULL
+1833,3,1833,3607,74,'Licenciatura en Zoologia'
+1834,3,1834,2907,74,'Bachillerato en Botanica'
+1835,3,1835,4468,74,'Doctorado en Vida Marina'
+1836,4,1836,3060,74,'Mantenimiento de Rutas'
+1837,4,1837,4129,74,'Conservacion de Habitat Animal'
+1838,4,1838,3954,74,'Mantenimiento de Instalaciones'
+1839,4,1839,4293,74,'Mantenimiento de Rutas'
+1840,4,1840,2901,74,'Conservacion de Habitat Animal'
+1841,4,1841,3520,74,'Mantenimiento de Instalaciones'
+1842,4,1842,2550,74,'Mantenimiento de Rutas'
+1843,4,1843,4512,74,'Conservacion de Habitat Animal'
+1844,4,1844,2667,74,'Mantenimiento de Instalaciones'
+1845,4,1845,3395,74,'Mantenimiento de Rutas'
+1846,4,1846,3458,74,'Conservacion de Habitat Animal'
+1847,4,1847,4245,74,'Mantenimiento de Instalaciones'
+1848,4,1848,3928,74,'Mantenimiento de Rutas'
+1849,4,1849,3170,74,'Conservacion de Habitat Animal'
+1850,4,1850,3251,74,'Mantenimiento de Instalaciones'
+1851,1,1851,3384,75,'1'
+1852,1,1852,3093,75,'2'
+1853,2,1853,3442,75,NULL
+1854,2,1854,4128,75,NULL
+1855,2,1855,4710,75,NULL
+1856,2,1856,2826,75,NULL
+1857,2,1857,2834,75,NULL
+1858,3,1858,3193,75,'Licenciatura en Zoologia'
+1859,3,1859,3073,75,'Bachillerato en Botanica'
+1860,3,1860,4650,75,'Doctorado en Vida Marina'
+1861,4,1861,4314,75,'Mantenimiento de Rutas'
+1862,4,1862,4858,75,'Conservacion de Habitat Animal'
+1863,4,1863,2998,75,'Mantenimiento de Instalaciones'
+1864,4,1864,3779,75,'Mantenimiento de Rutas'
+1865,4,1865,2551,75,'Conservacion de Habitat Animal'
+1866,4,1866,3318,75,'Mantenimiento de Instalaciones'
+1867,4,1867,4951,75,'Mantenimiento de Rutas'
+1868,4,1868,2728,75,'Conservacion de Habitat Animal'
+1869,4,1869,3060,75,'Mantenimiento de Instalaciones'
+1870,4,1870,4497,75,'Mantenimiento de Rutas'
+1871,4,1871,3607,75,'Conservacion de Habitat Animal'
+1872,4,1872,3409,75,'Mantenimiento de Instalaciones'
+1873,4,1873,4594,75,'Mantenimiento de Rutas'
+1874,4,1874,2926,75,'Conservacion de Habitat Animal'
+1875,4,1875,2590,75,'Mantenimiento de Instalaciones'
+1876,1,1876,2962,76,'1'
+1877,1,1877,2517,76,'2'
+1878,2,1878,4154,76,NULL
+1879,2,1879,3490,76,NULL
+1880,2,1880,3233,76,NULL
+1881,2,1881,3764,76,NULL
+1882,2,1882,4978,76,NULL
+1883,3,1883,2975,76,'Licenciatura en Zoologia'
+1884,3,1884,3572,76,'Bachillerato en Botanica'
+1885,3,1885,3354,76,'Doctorado en Vida Marina'
+1886,4,1886,3211,76,'Mantenimiento de Rutas'
+1887,4,1887,2545,76,'Conservacion de Habitat Animal'
+1888,4,1888,3614,76,'Mantenimiento de Instalaciones'
+1889,4,1889,3500,76,'Mantenimiento de Rutas'
+1890,4,1890,3879,76,'Conservacion de Habitat Animal'
+1891,4,1891,4191,76,'Mantenimiento de Instalaciones'
+1892,4,1892,3103,76,'Mantenimiento de Rutas'
+1893,4,1893,3549,76,'Conservacion de Habitat Animal'
+1894,4,1894,4500,76,'Mantenimiento de Instalaciones'
+1895,4,1895,3085,76,'Mantenimiento de Rutas'
+1896,4,1896,2832,76,'Conservacion de Habitat Animal'
+1897,4,1897,2642,76,'Mantenimiento de Instalaciones'
+1898,4,1898,3837,76,'Mantenimiento de Rutas'
+1899,4,1899,3481,76,'Conservacion de Habitat Animal'
+1900,4,1900,3559,76,'Mantenimiento de Instalaciones'
+1901,1,1901,4305,77,'1'
+1902,1,1902,4740,77,'2'
+1903,2,1903,3611,77,NULL
+1904,2,1904,4594,77,NULL
+1905,2,1905,3071,77,NULL
+1906,2,1906,4059,77,NULL
+1907,2,1907,3546,77,NULL
+1908,3,1908,4028,77,'Licenciatura en Zoologia'
+1909,3,1909,4975,77,'Bachillerato en Botanica'
+1910,3,1910,4058,77,'Doctorado en Vida Marina'
+1911,4,1911,3549,77,'Mantenimiento de Rutas'
+1912,4,1912,3344,77,'Conservacion de Habitat Animal'
+1913,4,1913,3685,77,'Mantenimiento de Instalaciones'
+1914,4,1914,3127,77,'Mantenimiento de Rutas'
+1915,4,1915,3269,77,'Conservacion de Habitat Animal'
+1916,4,1916,3843,77,'Mantenimiento de Instalaciones'
+1917,4,1917,3863,77,'Mantenimiento de Rutas'
+1918,4,1918,3788,77,'Conservacion de Habitat Animal'
+1919,4,1919,2904,77,'Mantenimiento de Instalaciones'
+1920,4,1920,4833,77,'Mantenimiento de Rutas'
+1921,4,1921,2918,77,'Conservacion de Habitat Animal'
+1922,4,1922,3544,77,'Mantenimiento de Instalaciones'
+1923,4,1923,2705,77,'Mantenimiento de Rutas'
+1924,4,1924,3000,77,'Conservacion de Habitat Animal'
+1925,4,1925,4162,77,'Mantenimiento de Instalaciones'
+1926,1,1926,4622,78,'1'
+1927,1,1927,4916,78,'2'
+1928,2,1928,3211,78,NULL
+1929,2,1929,4348,78,NULL
+1930,2,1930,2517,78,NULL
+1931,2,1931,3250,78,NULL
+1932,2,1932,2711,78,NULL
+1933,3,1933,4014,78,'Licenciatura en Zoologia'
+1934,3,1934,2987,78,'Bachillerato en Botanica'
+1935,3,1935,4923,78,'Doctorado en Vida Marina'
+1936,4,1936,3310,78,'Mantenimiento de Rutas'
+1937,4,1937,3388,78,'Conservacion de Habitat Animal'
+1938,4,1938,3719,78,'Mantenimiento de Instalaciones'
+1939,4,1939,2897,78,'Mantenimiento de Rutas'
+1940,4,1940,3351,78,'Conservacion de Habitat Animal'
+1941,4,1941,2583,78,'Mantenimiento de Instalaciones'
+1942,4,1942,2670,78,'Mantenimiento de Rutas'
+1943,4,1943,4505,78,'Conservacion de Habitat Animal'
+1944,4,1944,2631,78,'Mantenimiento de Instalaciones'
+1945,4,1945,4519,78,'Mantenimiento de Rutas'
+1946,4,1946,3658,78,'Conservacion de Habitat Animal'
+1947,4,1947,4643,78,'Mantenimiento de Instalaciones'
+1948,4,1948,3556,78,'Mantenimiento de Rutas'
+1949,4,1949,4979,78,'Conservacion de Habitat Animal'
+1950,4,1950,3952,78,'Mantenimiento de Instalaciones'
+1951,1,1951,3151,79,'1'
+1952,1,1952,3684,79,'2'
+1953,2,1953,2693,79,NULL
+1954,2,1954,4579,79,NULL
+1955,2,1955,2841,79,NULL
+1956,2,1956,4197,79,NULL
+1957,2,1957,4179,79,NULL
+1958,3,1958,3084,79,'Licenciatura en Zoologia'
+1959,3,1959,4387,79,'Bachillerato en Botanica'
+1960,3,1960,4409,79,'Doctorado en Vida Marina'
+1961,4,1961,3733,79,'Mantenimiento de Rutas'
+1962,4,1962,4318,79,'Conservacion de Habitat Animal'
+1963,4,1963,3290,79,'Mantenimiento de Instalaciones'
+1964,4,1964,3307,79,'Mantenimiento de Rutas'
+1965,4,1965,4936,79,'Conservacion de Habitat Animal'
+1966,4,1966,4870,79,'Mantenimiento de Instalaciones'
+1967,4,1967,3454,79,'Mantenimiento de Rutas'
+1968,4,1968,3190,79,'Conservacion de Habitat Animal'
+1969,4,1969,2752,79,'Mantenimiento de Instalaciones'
+1970,4,1970,4574,79,'Mantenimiento de Rutas'
+1971,4,1971,4152,79,'Conservacion de Habitat Animal'
+1972,4,1972,3459,79,'Mantenimiento de Instalaciones'
+1973,4,1973,3657,79,'Mantenimiento de Rutas'
+1974,4,1974,4245,79,'Conservacion de Habitat Animal'
+1975,4,1975,4035,79,'Mantenimiento de Instalaciones'
+1976,1,1976,4283,80,'1'
+1977,1,1977,4164,80,'2'
+1978,2,1978,3264,80,NULL
+1979,2,1979,3263,80,NULL
+1980,2,1980,4482,80,NULL
+1981,2,1981,4641,80,NULL
+1982,2,1982,3991,80,NULL
+1983,3,1983,3793,80,'Licenciatura en Zoologia'
+1984,3,1984,4285,80,'Bachillerato en Botanica'
+1985,3,1985,3176,80,'Doctorado en Vida Marina'
+1986,4,1986,4013,80,'Mantenimiento de Rutas'
+1987,4,1987,4787,80,'Conservacion de Habitat Animal'
+1988,4,1988,3341,80,'Mantenimiento de Instalaciones'
+1989,4,1989,2501,80,'Mantenimiento de Rutas'
+1990,4,1990,2687,80,'Conservacion de Habitat Animal'
+1991,4,1991,4108,80,'Mantenimiento de Instalaciones'
+1992,4,1992,3551,80,'Mantenimiento de Rutas'
+1993,4,1993,3597,80,'Conservacion de Habitat Animal'
+1994,4,1994,4253,80,'Mantenimiento de Instalaciones'
+1995,4,1995,2890,80,'Mantenimiento de Rutas'
+1996,4,1996,3160,80,'Conservacion de Habitat Animal'
+1997,4,1997,4040,80,'Mantenimiento de Instalaciones'
+1998,4,1998,3744,80,'Mantenimiento de Rutas'
+1999,4,1999,3789,80,'Conservacion de Habitat Animal'
+2000,4,2000,3660,80,'Mantenimiento de Instalaciones'
+2001,1,2001,3141,81,'1'
+2002,1,2002,4823,81,'2'
+2003,2,2003,3969,81,NULL
+2004,2,2004,3385,81,NULL
+2005,2,2005,4423,81,NULL
+2006,2,2006,4575,81,NULL
+2007,2,2007,3332,81,NULL
+2008,3,2008,4990,81,'Licenciatura en Zoologia'
+2009,3,2009,4294,81,'Bachillerato en Botanica'
+2010,3,2010,3119,81,'Doctorado en Vida Marina'
+2011,4,2011,3333,81,'Mantenimiento de Rutas'
+2012,4,2012,2771,81,'Conservacion de Habitat Animal'
+2013,4,2013,3347,81,'Mantenimiento de Instalaciones'
+2014,4,2014,4191,81,'Mantenimiento de Rutas'
+2015,4,2015,2738,81,'Conservacion de Habitat Animal'
+2016,4,2016,2679,81,'Mantenimiento de Instalaciones'
+2017,4,2017,4539,81,'Mantenimiento de Rutas'
+2018,4,2018,3751,81,'Conservacion de Habitat Animal'
+2019,4,2019,4335,81,'Mantenimiento de Instalaciones'
+2020,4,2020,4420,81,'Mantenimiento de Rutas'
+2021,4,2021,3338,81,'Conservacion de Habitat Animal'
+2022,4,2022,2560,81,'Mantenimiento de Instalaciones'
+2023,4,2023,3802,81,'Mantenimiento de Rutas'
+2024,4,2024,3342,81,'Conservacion de Habitat Animal'
+2025,4,2025,4235,81,'Mantenimiento de Instalaciones'
+2026,1,2026,2936,82,'1'
+2027,1,2027,3288,82,'2'
+2028,2,2028,3030,82,NULL
+2029,2,2029,2535,82,NULL
+2030,2,2030,2840,82,NULL
+2031,2,2031,4372,82,NULL
+2032,2,2032,3431,82,NULL
+2033,3,2033,3694,82,'Licenciatura en Zoologia'
+2034,3,2034,3922,82,'Bachillerato en Botanica'
+2035,3,2035,4557,82,'Doctorado en Vida Marina'
+2036,4,2036,2772,82,'Mantenimiento de Rutas'
+2037,4,2037,3507,82,'Conservacion de Habitat Animal'
+2038,4,2038,4882,82,'Mantenimiento de Instalaciones'
+2039,4,2039,2561,82,'Mantenimiento de Rutas'
+2040,4,2040,3344,82,'Conservacion de Habitat Animal'
+2041,4,2041,2920,82,'Mantenimiento de Instalaciones'
+2042,4,2042,4575,82,'Mantenimiento de Rutas'
+2043,4,2043,2736,82,'Conservacion de Habitat Animal'
+2044,4,2044,4722,82,'Mantenimiento de Instalaciones'
+2045,4,2045,2887,82,'Mantenimiento de Rutas'
+2046,4,2046,3424,82,'Conservacion de Habitat Animal'
+2047,4,2047,2792,82,'Mantenimiento de Instalaciones'
+2048,4,2048,2928,82,'Mantenimiento de Rutas'
+2049,4,2049,4705,82,'Conservacion de Habitat Animal'
+2050,4,2050,3695,82,'Mantenimiento de Instalaciones'
+2051,1,2051,3377,83,'1'
+2052,1,2052,2979,83,'2'
+2053,2,2053,2772,83,NULL
+2054,2,2054,4586,83,NULL
+2055,2,2055,3597,83,NULL
+2056,2,2056,3441,83,NULL
+2057,2,2057,3554,83,NULL
+2058,3,2058,3528,83,'Licenciatura en Zoologia'
+2059,3,2059,4007,83,'Bachillerato en Botanica'
+2060,3,2060,2957,83,'Doctorado en Vida Marina'
+2061,4,2061,3438,83,'Mantenimiento de Rutas'
+2062,4,2062,4930,83,'Conservacion de Habitat Animal'
+2063,4,2063,4385,83,'Mantenimiento de Instalaciones'
+2064,4,2064,4538,83,'Mantenimiento de Rutas'
+2065,4,2065,3979,83,'Conservacion de Habitat Animal'
+2066,4,2066,4933,83,'Mantenimiento de Instalaciones'
+2067,4,2067,2944,83,'Mantenimiento de Rutas'
+2068,4,2068,3244,83,'Conservacion de Habitat Animal'
+2069,4,2069,4737,83,'Mantenimiento de Instalaciones'
+2070,4,2070,4402,83,'Mantenimiento de Rutas'
+2071,4,2071,4778,83,'Conservacion de Habitat Animal'
+2072,4,2072,3283,83,'Mantenimiento de Instalaciones'
+2073,4,2073,2573,83,'Mantenimiento de Rutas'
+2074,4,2074,3424,83,'Conservacion de Habitat Animal'
+2075,4,2075,2879,83,'Mantenimiento de Instalaciones'
+2076,1,2076,4736,84,'1'
+2077,1,2077,3017,84,'2'
+2078,2,2078,3666,84,NULL
+2079,2,2079,3485,84,NULL
+2080,2,2080,4919,84,NULL
+2081,2,2081,4509,84,NULL
+2082,2,2082,3350,84,NULL
+2083,3,2083,4816,84,'Licenciatura en Zoologia'
+2084,3,2084,4723,84,'Bachillerato en Botanica'
+2085,3,2085,3079,84,'Doctorado en Vida Marina'
+2086,4,2086,3882,84,'Mantenimiento de Rutas'
+2087,4,2087,3752,84,'Conservacion de Habitat Animal'
+2088,4,2088,3101,84,'Mantenimiento de Instalaciones'
+2089,4,2089,4828,84,'Mantenimiento de Rutas'
+2090,4,2090,2821,84,'Conservacion de Habitat Animal'
+2091,4,2091,4486,84,'Mantenimiento de Instalaciones'
+2092,4,2092,4951,84,'Mantenimiento de Rutas'
+2093,4,2093,4625,84,'Conservacion de Habitat Animal'
+2094,4,2094,3309,84,'Mantenimiento de Instalaciones'
+2095,4,2095,3776,84,'Mantenimiento de Rutas'
+2096,4,2096,4114,84,'Conservacion de Habitat Animal'
+2097,4,2097,2700,84,'Mantenimiento de Instalaciones'
+2098,4,2098,3550,84,'Mantenimiento de Rutas'
+2099,4,2099,3878,84,'Conservacion de Habitat Animal'
+2100,4,2100,3194,84,'Mantenimiento de Instalaciones'
+2101,1,2101,3337,85,'1'
+2102,1,2102,3542,85,'2'
+2103,2,2103,3685,85,NULL
+2104,2,2104,4303,85,NULL
+2105,2,2105,4916,85,NULL
+2106,2,2106,4525,85,NULL
+2107,2,2107,4020,85,NULL
+2108,3,2108,3701,85,'Licenciatura en Zoologia'
+2109,3,2109,2946,85,'Bachillerato en Botanica'
+2110,3,2110,2626,85,'Doctorado en Vida Marina'
+2111,4,2111,4021,85,'Mantenimiento de Rutas'
+2112,4,2112,3087,85,'Conservacion de Habitat Animal'
+2113,4,2113,2676,85,'Mantenimiento de Instalaciones'
+2114,4,2114,4943,85,'Mantenimiento de Rutas'
+2115,4,2115,2809,85,'Conservacion de Habitat Animal'
+2116,4,2116,4284,85,'Mantenimiento de Instalaciones'
+2117,4,2117,3549,85,'Mantenimiento de Rutas'
+2118,4,2118,4765,85,'Conservacion de Habitat Animal'
+2119,4,2119,2551,85,'Mantenimiento de Instalaciones'
+2120,4,2120,2651,85,'Mantenimiento de Rutas'
+2121,4,2121,3813,85,'Conservacion de Habitat Animal'
+2122,4,2122,3558,85,'Mantenimiento de Instalaciones'
+2123,4,2123,3867,85,'Mantenimiento de Rutas'
+2124,4,2124,4555,85,'Conservacion de Habitat Animal'
+2125,4,2125,3313,85,'Mantenimiento de Instalaciones'
+2126,1,2126,2835,86,'1'
+2127,1,2127,4238,86,'2'
+2128,2,2128,2807,86,NULL
+2129,2,2129,3369,86,NULL
+2130,2,2130,2568,86,NULL
+2131,2,2131,2913,86,NULL
+2132,2,2132,2730,86,NULL
+2133,3,2133,2716,86,'Licenciatura en Zoologia'
+2134,3,2134,4807,86,'Bachillerato en Botanica'
+2135,3,2135,3512,86,'Doctorado en Vida Marina'
+2136,4,2136,4710,86,'Mantenimiento de Rutas'
+2137,4,2137,2618,86,'Conservacion de Habitat Animal'
+2138,4,2138,2632,86,'Mantenimiento de Instalaciones'
+2139,4,2139,3356,86,'Mantenimiento de Rutas'
+2140,4,2140,3517,86,'Conservacion de Habitat Animal'
+2141,4,2141,3577,86,'Mantenimiento de Instalaciones'
+2142,4,2142,4536,86,'Mantenimiento de Rutas'
+2143,4,2143,2802,86,'Conservacion de Habitat Animal'
+2144,4,2144,3153,86,'Mantenimiento de Instalaciones'
+2145,4,2145,4793,86,'Mantenimiento de Rutas'
+2146,4,2146,3639,86,'Conservacion de Habitat Animal'
+2147,4,2147,3543,86,'Mantenimiento de Instalaciones'
+2148,4,2148,4021,86,'Mantenimiento de Rutas'
+2149,4,2149,4628,86,'Conservacion de Habitat Animal'
+2150,4,2150,4371,86,'Mantenimiento de Instalaciones'
+2151,1,2151,4084,87,'1'
+2152,1,2152,4379,87,'2'
+2153,2,2153,3108,87,NULL
+2154,2,2154,3478,87,NULL
+2155,2,2155,3497,87,NULL
+2156,2,2156,2924,87,NULL
+2157,2,2157,4524,87,NULL
+2158,3,2158,4090,87,'Licenciatura en Zoologia'
+2159,3,2159,3976,87,'Bachillerato en Botanica'
+2160,3,2160,4917,87,'Doctorado en Vida Marina'
+2161,4,2161,3928,87,'Mantenimiento de Rutas'
+2162,4,2162,4726,87,'Conservacion de Habitat Animal'
+2163,4,2163,3790,87,'Mantenimiento de Instalaciones'
+2164,4,2164,2886,87,'Mantenimiento de Rutas'
+2165,4,2165,3074,87,'Conservacion de Habitat Animal'
+2166,4,2166,2772,87,'Mantenimiento de Instalaciones'
+2167,4,2167,4651,87,'Mantenimiento de Rutas'
+2168,4,2168,3976,87,'Conservacion de Habitat Animal'
+2169,4,2169,3234,87,'Mantenimiento de Instalaciones'
+2170,4,2170,3548,87,'Mantenimiento de Rutas'
+2171,4,2171,3270,87,'Conservacion de Habitat Animal'
+2172,4,2172,4882,87,'Mantenimiento de Instalaciones'
+2173,4,2173,3810,87,'Mantenimiento de Rutas'
+2174,4,2174,4261,87,'Conservacion de Habitat Animal'
+2175,4,2175,4533,87,'Mantenimiento de Instalaciones'
+2176,1,2176,4601,88,'1'
+2177,1,2177,3269,88,'2'
+2178,2,2178,4421,88,NULL
+2179,2,2179,4095,88,NULL
+2180,2,2180,3503,88,NULL
+2181,2,2181,4389,88,NULL
+2182,2,2182,2747,88,NULL
+2183,3,2183,4081,88,'Licenciatura en Zoologia'
+2184,3,2184,2621,88,'Bachillerato en Botanica'
+2185,3,2185,4853,88,'Doctorado en Vida Marina'
+2186,4,2186,3711,88,'Mantenimiento de Rutas'
+2187,4,2187,4035,88,'Conservacion de Habitat Animal'
+2188,4,2188,3587,88,'Mantenimiento de Instalaciones'
+2189,4,2189,4559,88,'Mantenimiento de Rutas'
+2190,4,2190,3971,88,'Conservacion de Habitat Animal'
+2191,4,2191,3380,88,'Mantenimiento de Instalaciones'
+2192,4,2192,4326,88,'Mantenimiento de Rutas'
+2193,4,2193,3325,88,'Conservacion de Habitat Animal'
+2194,4,2194,2749,88,'Mantenimiento de Instalaciones'
+2195,4,2195,4759,88,'Mantenimiento de Rutas'
+2196,4,2196,3178,88,'Conservacion de Habitat Animal'
+2197,4,2197,2991,88,'Mantenimiento de Instalaciones'
+2198,4,2198,3578,88,'Mantenimiento de Rutas'
+2199,4,2199,3974,88,'Conservacion de Habitat Animal'
+2200,4,2200,4851,88,'Mantenimiento de Instalaciones'
+2201,1,2201,2537,89,'1'
+2202,1,2202,2833,89,'2'
+2203,2,2203,4008,89,NULL
+2204,2,2204,2939,89,NULL
+2205,2,2205,2747,89,NULL
+2206,2,2206,4969,89,NULL
+2207,2,2207,3300,89,NULL
+2208,3,2208,2714,89,'Licenciatura en Zoologia'
+2209,3,2209,3693,89,'Bachillerato en Botanica'
+2210,3,2210,2657,89,'Doctorado en Vida Marina'
+2211,4,2211,3842,89,'Mantenimiento de Rutas'
+2212,4,2212,4820,89,'Conservacion de Habitat Animal'
+2213,4,2213,3845,89,'Mantenimiento de Instalaciones'
+2214,4,2214,4482,89,'Mantenimiento de Rutas'
+2215,4,2215,3705,89,'Conservacion de Habitat Animal'
+2216,4,2216,4463,89,'Mantenimiento de Instalaciones'
+2217,4,2217,3633,89,'Mantenimiento de Rutas'
+2218,4,2218,3713,89,'Conservacion de Habitat Animal'
+2219,4,2219,3951,89,'Mantenimiento de Instalaciones'
+2220,4,2220,3614,89,'Mantenimiento de Rutas'
+2221,4,2221,4400,89,'Conservacion de Habitat Animal'
+2222,4,2222,4700,89,'Mantenimiento de Instalaciones'
+2223,4,2223,4887,89,'Mantenimiento de Rutas'
+2224,4,2224,2768,89,'Conservacion de Habitat Animal'
+2225,4,2225,4737,89,'Mantenimiento de Instalaciones'
+2226,1,2226,2561,90,'1'
+2227,1,2227,3711,90,'2'
+2228,2,2228,3080,90,NULL
+2229,2,2229,3508,90,NULL
+2230,2,2230,3149,90,NULL
+2231,2,2231,2824,90,NULL
+2232,2,2232,3805,90,NULL
+2233,3,2233,2913,90,'Licenciatura en Zoologia'
+2234,3,2234,3962,90,'Bachillerato en Botanica'
+2235,3,2235,4398,90,'Doctorado en Vida Marina'
+2236,4,2236,3624,90,'Mantenimiento de Rutas'
+2237,4,2237,2594,90,'Conservacion de Habitat Animal'
+2238,4,2238,3229,90,'Mantenimiento de Instalaciones'
+2239,4,2239,4636,90,'Mantenimiento de Rutas'
+2240,4,2240,3128,90,'Conservacion de Habitat Animal'
+2241,4,2241,4142,90,'Mantenimiento de Instalaciones'
+2242,4,2242,2668,90,'Mantenimiento de Rutas'
+2243,4,2243,3366,90,'Conservacion de Habitat Animal'
+2244,4,2244,2652,90,'Mantenimiento de Instalaciones'
+2245,4,2245,4400,90,'Mantenimiento de Rutas'
+2246,4,2246,4025,90,'Conservacion de Habitat Animal'
+2247,4,2247,4478,90,'Mantenimiento de Instalaciones'
+2248,4,2248,3688,90,'Mantenimiento de Rutas'
+2249,4,2249,4852,90,'Conservacion de Habitat Animal'
+2250,4,2250,4216,90,'Mantenimiento de Instalaciones'
+2251,1,2251,4596,91,'1'
+2252,1,2252,3340,91,'2'
+2253,2,2253,3413,91,NULL
+2254,2,2254,3735,91,NULL
+2255,2,2255,3318,91,NULL
+2256,2,2256,3486,91,NULL
+2257,2,2257,3862,91,NULL
+2258,3,2258,4257,91,'Licenciatura en Zoologia'
+2259,3,2259,4733,91,'Bachillerato en Botanica'
+2260,3,2260,2902,91,'Doctorado en Vida Marina'
+2261,4,2261,3093,91,'Mantenimiento de Rutas'
+2262,4,2262,3651,91,'Conservacion de Habitat Animal'
+2263,4,2263,4145,91,'Mantenimiento de Instalaciones'
+2264,4,2264,4522,91,'Mantenimiento de Rutas'
+2265,4,2265,3878,91,'Conservacion de Habitat Animal'
+2266,4,2266,2832,91,'Mantenimiento de Instalaciones'
+2267,4,2267,3150,91,'Mantenimiento de Rutas'
+2268,4,2268,3352,91,'Conservacion de Habitat Animal'
+2269,4,2269,2550,91,'Mantenimiento de Instalaciones'
+2270,4,2270,2819,91,'Mantenimiento de Rutas'
+2271,4,2271,2663,91,'Conservacion de Habitat Animal'
+2272,4,2272,2648,91,'Mantenimiento de Instalaciones'
+2273,4,2273,2592,91,'Mantenimiento de Rutas'
+2274,4,2274,4709,91,'Conservacion de Habitat Animal'
+2275,4,2275,4635,91,'Mantenimiento de Instalaciones'
+2276,1,2276,2538,92,'1'
+2277,1,2277,3067,92,'2'
+2278,2,2278,4436,92,NULL
+2279,2,2279,3747,92,NULL
+2280,2,2280,4651,92,NULL
+2281,2,2281,2604,92,NULL
+2282,2,2282,2689,92,NULL
+2283,3,2283,3361,92,'Licenciatura en Zoologia'
+2284,3,2284,3752,92,'Bachillerato en Botanica'
+2285,3,2285,3589,92,'Doctorado en Vida Marina'
+2286,4,2286,2636,92,'Mantenimiento de Rutas'
+2287,4,2287,4598,92,'Conservacion de Habitat Animal'
+2288,4,2288,3389,92,'Mantenimiento de Instalaciones'
+2289,4,2289,3340,92,'Mantenimiento de Rutas'
+2290,4,2290,2607,92,'Conservacion de Habitat Animal'
+2291,4,2291,4067,92,'Mantenimiento de Instalaciones'
+2292,4,2292,2523,92,'Mantenimiento de Rutas'
+2293,4,2293,2555,92,'Conservacion de Habitat Animal'
+2294,4,2294,4595,92,'Mantenimiento de Instalaciones'
+2295,4,2295,4652,92,'Mantenimiento de Rutas'
+2296,4,2296,4306,92,'Conservacion de Habitat Animal'
+2297,4,2297,4029,92,'Mantenimiento de Instalaciones'
+2298,4,2298,2868,92,'Mantenimiento de Rutas'
+2299,4,2299,3581,92,'Conservacion de Habitat Animal'
+2300,4,2300,4975,92,'Mantenimiento de Instalaciones'
+2301,1,2301,4263,93,'1'
+2302,1,2302,3053,93,'2'
+2303,2,2303,2694,93,NULL
+2304,2,2304,3255,93,NULL
+2305,2,2305,4201,93,NULL
+2306,2,2306,2633,93,NULL
+2307,2,2307,3525,93,NULL
+2308,3,2308,3225,93,'Licenciatura en Zoologia'
+2309,3,2309,3725,93,'Bachillerato en Botanica'
+2310,3,2310,4893,93,'Doctorado en Vida Marina'
+2311,4,2311,4209,93,'Mantenimiento de Rutas'
+2312,4,2312,4668,93,'Conservacion de Habitat Animal'
+2313,4,2313,2862,93,'Mantenimiento de Instalaciones'
+2314,4,2314,3761,93,'Mantenimiento de Rutas'
+2315,4,2315,4015,93,'Conservacion de Habitat Animal'
+2316,4,2316,2951,93,'Mantenimiento de Instalaciones'
+2317,4,2317,4695,93,'Mantenimiento de Rutas'
+2318,4,2318,2971,93,'Conservacion de Habitat Animal'
+2319,4,2319,4013,93,'Mantenimiento de Instalaciones'
+2320,4,2320,4567,93,'Mantenimiento de Rutas'
+2321,4,2321,4693,93,'Conservacion de Habitat Animal'
+2322,4,2322,4332,93,'Mantenimiento de Instalaciones'
+2323,4,2323,4655,93,'Mantenimiento de Rutas'
+2324,4,2324,2661,93,'Conservacion de Habitat Animal'
+2325,4,2325,4399,93,'Mantenimiento de Instalaciones'
+2326,1,2326,3320,94,'1'
+2327,1,2327,3829,94,'2'
+2328,2,2328,3002,94,NULL
+2329,2,2329,4632,94,NULL
+2330,2,2330,3029,94,NULL
+2331,2,2331,2679,94,NULL
+2332,2,2332,2818,94,NULL
+2333,3,2333,2838,94,'Licenciatura en Zoologia'
+2334,3,2334,2941,94,'Bachillerato en Botanica'
+2335,3,2335,3774,94,'Doctorado en Vida Marina'
+2336,4,2336,3597,94,'Mantenimiento de Rutas'
+2337,4,2337,2928,94,'Conservacion de Habitat Animal'
+2338,4,2338,3541,94,'Mantenimiento de Instalaciones'
+2339,4,2339,4351,94,'Mantenimiento de Rutas'
+2340,4,2340,3787,94,'Conservacion de Habitat Animal'
+2341,4,2341,4565,94,'Mantenimiento de Instalaciones'
+2342,4,2342,3290,94,'Mantenimiento de Rutas'
+2343,4,2343,4166,94,'Conservacion de Habitat Animal'
+2344,4,2344,3382,94,'Mantenimiento de Instalaciones'
+2345,4,2345,4670,94,'Mantenimiento de Rutas'
+2346,4,2346,4995,94,'Conservacion de Habitat Animal'
+2347,4,2347,3652,94,'Mantenimiento de Instalaciones'
+2348,4,2348,4786,94,'Mantenimiento de Rutas'
+2349,4,2349,3130,94,'Conservacion de Habitat Animal'
+2350,4,2350,3441,94,'Mantenimiento de Instalaciones'
+2351,1,2351,3402,95,'1'
+2352,1,2352,4484,95,'2'
+2353,2,2353,3436,95,NULL
+2354,2,2354,3480,95,NULL
+2355,2,2355,4014,95,NULL
+2356,2,2356,2763,95,NULL
+2357,2,2357,3114,95,NULL
+2358,3,2358,4588,95,'Licenciatura en Zoologia'
+2359,3,2359,2836,95,'Bachillerato en Botanica'
+2360,3,2360,4862,95,'Doctorado en Vida Marina'
+2361,4,2361,2773,95,'Mantenimiento de Rutas'
+2362,4,2362,4540,95,'Conservacion de Habitat Animal'
+2363,4,2363,2785,95,'Mantenimiento de Instalaciones'
+2364,4,2364,4831,95,'Mantenimiento de Rutas'
+2365,4,2365,3204,95,'Conservacion de Habitat Animal'
+2366,4,2366,4242,95,'Mantenimiento de Instalaciones'
+2367,4,2367,4876,95,'Mantenimiento de Rutas'
+2368,4,2368,3303,95,'Conservacion de Habitat Animal'
+2369,4,2369,3260,95,'Mantenimiento de Instalaciones'
+2370,4,2370,4651,95,'Mantenimiento de Rutas'
+2371,4,2371,4442,95,'Conservacion de Habitat Animal'
+2372,4,2372,4161,95,'Mantenimiento de Instalaciones'
+2373,4,2373,4418,95,'Mantenimiento de Rutas'
+2374,4,2374,3676,95,'Conservacion de Habitat Animal'
+2375,4,2375,3043,95,'Mantenimiento de Instalaciones'
+2376,1,2376,4051,96,'1'
+2377,1,2377,3214,96,'2'
+2378,2,2378,3388,96,NULL
+2379,2,2379,4408,96,NULL
+2380,2,2380,2936,96,NULL
+2381,2,2381,3868,96,NULL
+2382,2,2382,2636,96,NULL
+2383,3,2383,4176,96,'Licenciatura en Zoologia'
+2384,3,2384,3751,96,'Bachillerato en Botanica'
+2385,3,2385,2951,96,'Doctorado en Vida Marina'
+2386,4,2386,4027,96,'Mantenimiento de Rutas'
+2387,4,2387,3082,96,'Conservacion de Habitat Animal'
+2388,4,2388,2966,96,'Mantenimiento de Instalaciones'
+2389,4,2389,3889,96,'Mantenimiento de Rutas'
+2390,4,2390,4768,96,'Conservacion de Habitat Animal'
+2391,4,2391,2734,96,'Mantenimiento de Instalaciones'
+2392,4,2392,2556,96,'Mantenimiento de Rutas'
+2393,4,2393,2807,96,'Conservacion de Habitat Animal'
+2394,4,2394,2872,96,'Mantenimiento de Instalaciones'
+2395,4,2395,4279,96,'Mantenimiento de Rutas'
+2396,4,2396,4685,96,'Conservacion de Habitat Animal'
+2397,4,2397,3891,96,'Mantenimiento de Instalaciones'
+2398,4,2398,3633,96,'Mantenimiento de Rutas'
+2399,4,2399,3532,96,'Conservacion de Habitat Animal'
+2400,4,2400,3469,96,'Mantenimiento de Instalaciones'
+2401,1,2401,4159,97,'1'
+2402,1,2402,4351,97,'2'
+2403,2,2403,3076,97,NULL
+2404,2,2404,3133,97,NULL
+2405,2,2405,3063,97,NULL
+2406,2,2406,3398,97,NULL
+2407,2,2407,3671,97,NULL
+2408,3,2408,4947,97,'Licenciatura en Zoologia'
+2409,3,2409,4847,97,'Bachillerato en Botanica'
+2410,3,2410,4804,97,'Doctorado en Vida Marina'
+2411,4,2411,3488,97,'Mantenimiento de Rutas'
+2412,4,2412,4887,97,'Conservacion de Habitat Animal'
+2413,4,2413,4938,97,'Mantenimiento de Instalaciones'
+2414,4,2414,3772,97,'Mantenimiento de Rutas'
+2415,4,2415,4270,97,'Conservacion de Habitat Animal'
+2416,4,2416,4323,97,'Mantenimiento de Instalaciones'
+2417,4,2417,4782,97,'Mantenimiento de Rutas'
+2418,4,2418,3827,97,'Conservacion de Habitat Animal'
+2419,4,2419,3208,97,'Mantenimiento de Instalaciones'
+2420,4,2420,4433,97,'Mantenimiento de Rutas'
+2421,4,2421,3118,97,'Conservacion de Habitat Animal'
+2422,4,2422,4383,97,'Mantenimiento de Instalaciones'
+2423,4,2423,3260,97,'Mantenimiento de Rutas'
+2424,4,2424,2996,97,'Conservacion de Habitat Animal'
+2425,4,2425,2971,97,'Mantenimiento de Instalaciones'
+2426,1,2426,4419,98,'1'
+2427,1,2427,3043,98,'2'
+2428,2,2428,4159,98,NULL
+2429,2,2429,2528,98,NULL
+2430,2,2430,3905,98,NULL
+2431,2,2431,3331,98,NULL
+2432,2,2432,4801,98,NULL
+2433,3,2433,2832,98,'Licenciatura en Zoologia'
+2434,3,2434,4571,98,'Bachillerato en Botanica'
+2435,3,2435,4777,98,'Doctorado en Vida Marina'
+2436,4,2436,3313,98,'Mantenimiento de Rutas'
+2437,4,2437,4088,98,'Conservacion de Habitat Animal'
+2438,4,2438,2633,98,'Mantenimiento de Instalaciones'
+2439,4,2439,4575,98,'Mantenimiento de Rutas'
+2440,4,2440,4532,98,'Conservacion de Habitat Animal'
+2441,4,2441,2851,98,'Mantenimiento de Instalaciones'
+2442,4,2442,3737,98,'Mantenimiento de Rutas'
+2443,4,2443,4425,98,'Conservacion de Habitat Animal'
+2444,4,2444,4776,98,'Mantenimiento de Instalaciones'
+2445,4,2445,2967,98,'Mantenimiento de Rutas'
+2446,4,2446,4929,98,'Conservacion de Habitat Animal'
+2447,4,2447,4784,98,'Mantenimiento de Instalaciones'
+2448,4,2448,2926,98,'Mantenimiento de Rutas'
+2449,4,2449,3636,98,'Conservacion de Habitat Animal'
+2450,4,2450,3686,98,'Mantenimiento de Instalaciones'
+2451,1,2451,3772,99,'1'
+2452,1,2452,3210,99,'2'
+2453,2,2453,2544,99,NULL
+2454,2,2454,3523,99,NULL
+2455,2,2455,3079,99,NULL
+2456,2,2456,4967,99,NULL
+2457,2,2457,2528,99,NULL
+2458,3,2458,3850,99,'Licenciatura en Zoologia'
+2459,3,2459,3501,99,'Bachillerato en Botanica'
+2460,3,2460,4370,99,'Doctorado en Vida Marina'
+2461,4,2461,3078,99,'Mantenimiento de Rutas'
+2462,4,2462,2923,99,'Conservacion de Habitat Animal'
+2463,4,2463,2850,99,'Mantenimiento de Instalaciones'
+2464,4,2464,4231,99,'Mantenimiento de Rutas'
+2465,4,2465,3661,99,'Conservacion de Habitat Animal'
+2466,4,2466,2858,99,'Mantenimiento de Instalaciones'
+2467,4,2467,3973,99,'Mantenimiento de Rutas'
+2468,4,2468,3910,99,'Conservacion de Habitat Animal'
+2469,4,2469,3796,99,'Mantenimiento de Instalaciones'
+2470,4,2470,3023,99,'Mantenimiento de Rutas'
+2471,4,2471,3567,99,'Conservacion de Habitat Animal'
+2472,4,2472,4154,99,'Mantenimiento de Instalaciones'
+2473,4,2473,4930,99,'Mantenimiento de Rutas'
+2474,4,2474,4180,99,'Conservacion de Habitat Animal'
+2475,4,2475,4127,99,'Mantenimiento de Instalaciones'
+2476,1,2476,4799,100,'1'
+2477,1,2477,4120,100,'2'
+2478,2,2478,4638,100,NULL
+2479,2,2479,3729,100,NULL
+2480,2,2480,4626,100,NULL
+2481,2,2481,2508,100,NULL
+2482,2,2482,4270,100,NULL
+2483,3,2483,3626,100,'Licenciatura en Zoologia'
+2484,3,2484,3149,100,'Bachillerato en Botanica'
+2485,3,2485,4103,100,'Doctorado en Vida Marina'
+2486,4,2486,4894,100,'Mantenimiento de Rutas'
+2487,4,2487,3458,100,'Conservacion de Habitat Animal'
+2488,4,2488,2542,100,'Mantenimiento de Instalaciones'
+2489,4,2489,4012,100,'Mantenimiento de Rutas'
+2490,4,2490,2981,100,'Conservacion de Habitat Animal'
+2491,4,2491,4378,100,'Mantenimiento de Instalaciones'
+2492,4,2492,2980,100,'Mantenimiento de Rutas'
+2493,4,2493,3823,100,'Conservacion de Habitat Animal'
+2494,4,2494,2910,100,'Mantenimiento de Instalaciones'
+2495,4,2495,4243,100,'Mantenimiento de Rutas'
+2496,4,2496,3730,100,'Conservacion de Habitat Animal'
+2497,4,2497,3885,100,'Mantenimiento de Instalaciones'
+2498,4,2498,3644,100,'Mantenimiento de Rutas'
+2499,4,2499,3259,100,'Conservacion de Habitat Animal'
+2500,4,2500,2970,100,'Mantenimiento de Instalaciones'
