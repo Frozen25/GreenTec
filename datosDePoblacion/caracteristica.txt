@@ -3,3 +3,5 @@
 3,'Omnivoro',1
 4,'Cristal',3
 5,'Roca',3
+6,'Floracion',2
+7,'Sin floracion',2

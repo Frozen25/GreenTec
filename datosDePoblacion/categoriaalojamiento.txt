@@ -1,0 +1,4 @@
+1,'Economico'
+2,'Suite'
+3,'Resort and Spa'
+4,'Estadia extendida'
