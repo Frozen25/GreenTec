@@ -1,3 +1,4 @@
+idParque,Nombre,FechaInauguracion,idUbicacion
 1,'Parque Nacional Stoiber','1926-09-13 22:48:53',1
 2,'Parque Nacional Decosta','1952-05-23 18:29:01',2
 3,'Parque Nacional Nass','1953-02-17 05:26:11',3

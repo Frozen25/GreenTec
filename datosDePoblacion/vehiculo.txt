@@ -1,3 +1,4 @@
+idVehiculo,idMedioTransporte,Matricula
 1,1,'a66e9e36'
 2,1,'51e9d073'
 3,1,'fa788518'

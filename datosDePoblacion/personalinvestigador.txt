@@ -1,3 +1,4 @@
+idEmpleado,idProyecto
 8,1
 33,2
 58,3

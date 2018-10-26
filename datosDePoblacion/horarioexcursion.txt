@@ -1,2 +1,3 @@
+idHorarioExcursion,Dia,InicioExcursion,FinExcursion
 1,'Lunes','07:00:00','12:00:00'
 2,'Miercoles','09:00:00','15:00:00'

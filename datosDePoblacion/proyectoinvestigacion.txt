@@ -1,3 +1,4 @@
+idProyecto,Presupuesto,InicioPeriodo,FinPeriodo,idEspecie
 1,5699,2015-03-27 09:37:25,NULL,2
 2,6993,2015-10-25 18:50:11,NULL,13
 3,7304,2015-01-29 13:56:36,NULL,24

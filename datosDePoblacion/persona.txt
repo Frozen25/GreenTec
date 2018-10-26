@@ -1,3 +1,4 @@
+idPersona,Cedula,Nombre,Apellido,Telefono,Celular,Email,idUbicacion
 1,'140','Genoveva','Vinsel',285330103276,843760835094,'plerosis@racemize.co.uk',38
 2,'273','Marceline','Goings',247530040679,868564341542,'orthopraxy@prefreeze.edu',8
 3,'388','Agnes','Vallee',219950303309,879801340209,'supernatation@soap.co.uk',12

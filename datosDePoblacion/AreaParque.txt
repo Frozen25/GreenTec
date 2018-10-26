@@ -1,3 +1,4 @@
+idAreaParque,Nombre,Extension,idParque
 1,'Area Nido',6,1
 2,'Area Bisaccia',3,2
 3,'Area Czyzewski',9,3

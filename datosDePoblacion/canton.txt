@@ -1,3 +1,4 @@
+idCanton,Nombre,idProvincia
 1,'Cadorette',1
 2,'Sweetman',2
 3,'Abele',3

@@ -1,3 +1,4 @@
+idEspecie,NombreCientifico,NombreVulgar,idTipoEspecie,idTemporada,idCaracteristica
 1,'Ursus horribilis','Oso grizzly',1,1,3
 2,'Pan paniscus','Bonobo',1,2,3
 3,'Sphyrna mokarran','Tiburon Martillo',1,3,1

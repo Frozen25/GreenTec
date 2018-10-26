@@ -1,3 +1,4 @@
+idAlojamiento,Capacidad,Nombre,idParque,idCategoria,idUbicacion
 1,957,'Chateu Cirella',1,1,1
 2,750,'Chateu Ruscetti',2,2,2
 3,798,'Chateu Capezzuto',3,1,3

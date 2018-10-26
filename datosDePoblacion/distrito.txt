@@ -1,3 +1,4 @@
+idDistrito,Nombre,idCanton
 1,'Schwabe',1
 2,'Stasiuk',2
 3,'Abide',3

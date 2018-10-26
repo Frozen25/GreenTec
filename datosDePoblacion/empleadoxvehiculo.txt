@@ -1,3 +1,4 @@
+idEmpleado,idVehiculo,Inicio,Fin
 3,1,'2012-01-01 00:00:00',NULL
 4,2,'2012-01-01 00:00:00',NULL
 5,3,'2012-01-01 00:00:00',NULL

@@ -1,3 +1,4 @@
+idExcursion,idAlojamiento,Nombre
 1,1,'Vistamiento de fauna marina'
 2,2,'Vistamiento de fauna marina'
 3,3,'Vistamiento de fauna marina'

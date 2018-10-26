@@ -1,3 +1,4 @@
+idCategoria,Nombre
 1,'Economico'
 2,'Suite'
 3,'Resort and Spa'

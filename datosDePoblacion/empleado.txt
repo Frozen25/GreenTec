@@ -1,3 +1,4 @@
+idEmpleado,idPuesto,idPersona,Salario,idParque,Descripcion
 1,1,1,3849,1,'1'
 2,1,2,3465,1,'2'
 3,2,3,2694,1,NULL

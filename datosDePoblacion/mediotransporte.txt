@@ -1,3 +1,4 @@
+idMedioTransporte,Nombre
 0,'A pie'
 1,'Carro'
 2,'Bus'
