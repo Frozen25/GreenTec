@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Paises>
+  <Pais>
+    <idPais>15</idPais>
+    <Nombre>España</Nombre>
+  </Pais>
+  <Pais>
+    <idPais>16</idPais>
+    <Nombre>Chipre</Nombre>
+  </Pais>
+  <Pais>
+    <idPais>17</idPais>
+    <Nombre>Grecia</Nombre>
+  </Pais>
+</Paises>
