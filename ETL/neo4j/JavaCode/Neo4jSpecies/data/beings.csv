@@ -1,0 +1,11 @@
+IDSpecies,IDType,NonScientificName,ScientificName
+1,1,Dog,Canis lupus familiaris
+2,1,cat,Felis silvestris catus
+3,1,rat,Rattus 
+4,1,tiger,Panthera tigris
+5,1,lion,Panthera leo
+6,2,tree,Sequoia sempervirens
+7,2,grass,Phleum pratense
+8,2,apple tree,Malus domestica
+9,1,giraffe,Giraffa camelopardalis
+10,1,horse,Equus ferus caballus

@@ -1,0 +1,25 @@
+idEspecie,NombreCientifico,NombreVulgar,idTipoEspecie
+1,'Ursus horribilis','Oso grizzly',1
+2,'Pan paniscus','Bonobo',1
+3,'Sphyrna mokarran','Tiburon Martillo',1
+4,'Canis lupus','Lobo gris',1
+5,'Salmo trutta','Trucha',1
+6,'Oncorhynchus nerka','Salmon Rojo',1
+7,'Lepus europaeus','Liebre Europea',1
+8,'Odocoileus virginianus','Venado Cola Blanca',1
+9,'Chlorophyta sensu lato','Alga Verde',2
+10,'Chrysophyceae','Alga dorada',2
+11,'Phaeophyceae','Alga parda',2
+12,'Rhodophyta','Alga roja',2
+13,'Vaccinium myrtillus','Arandano Europeo',2
+14,'Rubus','Mora',2
+15,'Prunus cerasus','Cerezo de Morello',2
+16,'Fragaria vesca','Fresa salvaje',2
+17,'Gemmis Ignis Primaris','Diamante',3
+18,'Roccus Ignis Secundaris','Granito',3
+19,'Gemmis Ignis Obscurus','Obsidiana',3
+20,'Gemmis Ignis Espacialista','Anortosita',3
+21,'Roccus Metamorphicus Primaris','Jasperoide',3
+22,'Roccus Metamorphicus Secundaris','Marmol',3
+23,'Roccus Sedimentarius','Lignito',3
+24,'Roccus Sedimentarius','Silex',3

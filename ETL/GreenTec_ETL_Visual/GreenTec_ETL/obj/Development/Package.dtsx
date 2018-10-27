@@ -1,0 +1,1007 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="10/26/2018 9:59:24 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="WINS-ALEXIS"
+  DTS:CreatorName="GREENTEC\cluadmin"
+  DTS:DTSID="{BCF22B7C-71C7-4A0E-B958-E092FB10F60F}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.0900.30"
+  DTS:LocaleID="3082"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionBuild="8"
+  DTS:VersionGUID="{4A379245-F173-49BC-A92A-B6BD11C78794}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Administrador de conexiones de archivos planos]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{0C95CCF1-882B-4922-809E-89606139AD5C}"
+      DTS:ObjectName="Administrador de conexiones de archivos planos">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="3082"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="C:\Users\cluadmin\Desktop\PROYECTO2\neo4j\Especie.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="idEspecie"
+              DTS:DTSID="{F63A4B94-D27B-4DD9-9A7B-C6840A3A1F75}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="NombreCientifico"
+              DTS:DTSID="{FD2CC6E0-932B-4C11-90E7-23013913F231}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="NombreVulgar"
+              DTS:DTSID="{4B7B0F1E-037F-4B4A-9C4F-E03D41E4178A}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="idTipoEspecie"
+              DTS:DTSID="{3666D651-A759-4FAE-A41F-CC43BF2ADBCF}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Administrador de conexiones de archivos planos 1]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{478341D1-AD87-4873-89EA-C78844D56CD3}"
+      DTS:ObjectName="Administrador de conexiones de archivos planos 1">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="3082"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="C:\Users\cluadmin\Desktop\PROYECTO2\neo4j\Cadena.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Cazador"
+              DTS:DTSID="{AEBB4C54-451F-44B7-ACAD-DE39E48A8F1E}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Presa"
+              DTS:DTSID="{DBB1970C-1167-40BB-8D85-7008587153D4}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="72"
+              DTS:TextQualified="True"
+              DTS:ObjectName="rowguid"
+              DTS:DTSID="{48101CA0-FE74-475F-9E68-C3E7C7711A0E}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Administrador de conexiones de archivos planos 2]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{35A33AB5-25F0-41B9-904D-B5DC7D177E3C}"
+      DTS:ObjectName="Administrador de conexiones de archivos planos 2">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="3082"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="C:\Users\cluadmin\Desktop\PROYECTO2\neo4j\Cadena.txt">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Columna 0"
+              DTS:DTSID="{9C5B3FC1-D0FB-43AA-907F-AE82674C33A7}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Columna 1"
+              DTS:DTSID="{1CB2BB53-5262-49F7-95C4-9ECFBE78329F}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="72"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Columna 2"
+              DTS:DTSID="{962CAE97-3753-4FB9-ADE7-2BF6F0959F14}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Administrador de conexiones de archivos planos 3]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{DC1CB5A0-7076-448B-A7E5-C71C4D7D50F1}"
+      DTS:ObjectName="Administrador de conexiones de archivos planos 3">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="3082"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="C:\Users\cluadmin\Desktop\PROYECTO2\neo4j\Cadena.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Cazador"
+              DTS:DTSID="{149BCAD8-BDA3-4F44-9257-80DFB17B3859}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Presa"
+              DTS:DTSID="{7A5481AC-4E23-41D9-8EB8-916110EF6BA2}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ExportarCadena]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{9882841B-3A93-4782-B860-5A9F11F6F146}"
+      DTS:ObjectName="ExportarCadena">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="3082"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="C:\Users\cluadmin\Desktop\PROYECTO2\neo4j\JavaCode\Neo4jSpecies\data\Cadena.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Cazador"
+              DTS:DTSID="{33B175A6-357D-4CB3-8663-B38710D431A7}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Presa"
+              DTS:DTSID="{F45416E9-7EE0-49DF-B0FA-3DE3F6FBEBF0}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ExportarEspecies]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{CC9F5C87-519E-4904-95E1-80F3E4E73CCA}"
+      DTS:ObjectName="ExportarEspecies">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="3082"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="C:\Users\cluadmin\Desktop\PROYECTO2\neo4j\JavaCode\Neo4jSpecies\data\Especies.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="idEspecie"
+              DTS:DTSID="{D4248551-FF19-4EE7-AD52-8A301D365839}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="NombreCientifico"
+              DTS:DTSID="{D68A8039-FC76-4A8D-A1C3-D554A4D028A3}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="NombreVulgar"
+              DTS:DTSID="{DDE0BB1A-B4B9-4068-9426-8A0488FA925D}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="idTipoEspecie"
+              DTS:DTSID="{CF9ADE33-4FE8-4015-88F6-ECFC0E98E190}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[WinS-Alexis.greenTEC]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{7C255BEE-BF74-4C3A-9382-30355C7D0E88}"
+      DTS:ObjectName="WinS-Alexis.greenTEC">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="Data Source=WinS-Alexis;Initial Catalog=greenTEC;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Exportar CSV Cadena"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:Description="Tarea Flujo de datos"
+      DTS:DTSID="{84841395-9D16-40E4-928A-61976B7118C1}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Exportar CSV Cadena"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          version="1">
+          <components>
+            <component
+              refId="Package\Exportar CSV Cadena\Destino de archivo plano Cadena"
+              componentClassID="Microsoft.FlatFileDestination"
+              contactInfo="Destino de archivo plano;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; Todos los derechos reservados; http://www.microsoft.com/sql/support;1"
+              description="Destino de archivo plano"
+              localeId="3082"
+              name="Destino de archivo plano Cadena">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Especifica si los datos sobrescriben el archivo de destino o se anexan al mismo."
+                  name="Overwrite">true</property>
+                <property
+                  dataType="System.Null"
+                  description="Especifica el texto para escribir en el archivo de destino antes de escribir ningún dato."
+                  expressionType="Notify"
+                  name="Header" />
+                <property
+                  dataType="System.Boolean"
+                  description="Cuando el calificador de texto está habilitado, especifica si este contendrá secuencias de escape o no en los datos escritos en el archivo de destino."
+                  name="EscapeQualifier">false</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Exportar CSV Cadena\Destino de archivo plano Cadena.Connections[FlatFileConnection]"
+                  connectionManagerID="Package.ConnectionManagers[ExportarCadena]"
+                  connectionManagerRefId="Package.ConnectionManagers[ExportarCadena]"
+                  name="FlatFileConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Exportar CSV Cadena\Destino de archivo plano Cadena.Inputs[Entrada de destino de archivo plano]"
+                  hasSideEffects="true"
+                  name="Entrada de destino de archivo plano">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Exportar CSV Cadena\Destino de archivo plano Cadena.Inputs[Entrada de destino de archivo plano].Columns[Cazador]"
+                      cachedDataType="i4"
+                      cachedName="Cazador"
+                      externalMetadataColumnId="Package\Exportar CSV Cadena\Destino de archivo plano Cadena.Inputs[Entrada de destino de archivo plano].ExternalColumns[Cazador]"
+                      lineageId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de origen de OLE DB].Columns[Cazador]" />
+                    <inputColumn
+                      refId="Package\Exportar CSV Cadena\Destino de archivo plano Cadena.Inputs[Entrada de destino de archivo plano].Columns[Presa]"
+                      cachedDataType="i4"
+                      cachedName="Presa"
+                      externalMetadataColumnId="Package\Exportar CSV Cadena\Destino de archivo plano Cadena.Inputs[Entrada de destino de archivo plano].ExternalColumns[Presa]"
+                      lineageId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de origen de OLE DB].Columns[Presa]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Exportar CSV Cadena\Destino de archivo plano Cadena.Inputs[Entrada de destino de archivo plano].ExternalColumns[Cazador]"
+                      dataType="i4"
+                      name="Cazador" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar CSV Cadena\Destino de archivo plano Cadena.Inputs[Entrada de destino de archivo plano].ExternalColumns[Presa]"
+                      dataType="i4"
+                      name="Presa" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+            </component>
+            <component
+              refId="Package\Exportar CSV Cadena\Origen de OLE DB 1"
+              componentClassID="Microsoft.OLEDBSource"
+              contactInfo="Origen de OLE DB;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; Todos los derechos reservados; http://www.microsoft.com/sql/support;7"
+              description="Origen de OLE DB"
+              name="Origen de OLE DB 1"
+              usesDispositions="true"
+              version="7">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="Número de segundos antes de que se agote el tiempo de espera de un comando. Un valor de 0 indica un tiempo de espera infinito."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Especifica el nombre del objeto de base de datos usado para abrir un conjunto de filas."
+                  name="OpenRowset">[dbo].[CadenaAlimenticia]</property>
+                <property
+                  dataType="System.String"
+                  description="Especifica la variable que contiene el nombre del objeto de base de datos usado para abrir un conjunto de filas."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="Comando SQL para ejecutar."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">SELECT        Cazador, Presa
+FROM            CadenaAlimenticia</property>
+                <property
+                  dataType="System.String"
+                  description="Variable que contiene el comando SQL para ejecutar."
+                  name="SqlCommandVariable"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Especifica la página de códigos de columna para utilizar cuando la información de página de códigos no está disponible en el origen de datos."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Fuerza el uso del valor de la propiedad DefaultCodePage al describir datos de caracteres."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Especifica el modo utilizado para obtener acceso a la base de datos."
+                  name="AccessMode"
+                  typeConverter="AccessMode">2</property>
+                <property
+                  dataType="System.String"
+                  description="Asignaciones entre los parámetros del comando SQL y las variables."
+                  name="ParameterMapping"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[WinS-Alexis.greenTEC]"
+                  connectionManagerRefId="Package.ConnectionManagers[WinS-Alexis.greenTEC]"
+                  description="La conexión de tiempo de ejecución OLE DB usada para obtener acceso a la base de datos."
+                  name="OleDbConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de origen de OLE DB]"
+                  name="Salida de origen de OLE DB">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de origen de OLE DB].Columns[Cazador]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversión"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de origen de OLE DB].ExternalColumns[Cazador]"
+                      lineageId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de origen de OLE DB].Columns[Cazador]"
+                      name="Cazador"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de origen de OLE DB].Columns[Presa]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversión"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de origen de OLE DB].ExternalColumns[Presa]"
+                      lineageId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de origen de OLE DB].Columns[Presa]"
+                      name="Presa"
+                      truncationRowDisposition="FailComponent" />
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de origen de OLE DB].ExternalColumns[Cazador]"
+                      dataType="i4"
+                      name="Cazador" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de origen de OLE DB].ExternalColumns[Presa]"
+                      dataType="i4"
+                      name="Presa" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de error de origen de OLE DB]"
+                  isErrorOut="true"
+                  name="Salida de error de origen de OLE DB">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de error de origen de OLE DB].Columns[Cazador]"
+                      dataType="i4"
+                      lineageId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de error de origen de OLE DB].Columns[Cazador]"
+                      name="Cazador" />
+                    <outputColumn
+                      refId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de error de origen de OLE DB].Columns[Presa]"
+                      dataType="i4"
+                      lineageId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de error de origen de OLE DB].Columns[Presa]"
+                      name="Presa" />
+                    <outputColumn
+                      refId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de error de origen de OLE DB].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de error de origen de OLE DB].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de error de origen de OLE DB].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de error de origen de OLE DB].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+          <paths>
+            <path
+              refId="Package\Exportar CSV Cadena.Paths[Salida de origen de OLE DB]"
+              endId="Package\Exportar CSV Cadena\Destino de archivo plano Cadena.Inputs[Entrada de destino de archivo plano]"
+              name="Salida de origen de OLE DB"
+              startId="Package\Exportar CSV Cadena\Origen de OLE DB 1.Outputs[Salida de origen de OLE DB]" />
+          </paths>
+        </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Exportar CSV Especies"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:Description="Tarea Flujo de datos"
+      DTS:DTSID="{5B328AB2-E3FA-46A0-8D4F-4A31B525DB9C}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Exportar CSV Especies"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          version="1">
+          <components>
+            <component
+              refId="Package\Exportar CSV Especies\Destino de archivo Especie"
+              componentClassID="Microsoft.FlatFileDestination"
+              contactInfo="Destino de archivo plano;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; Todos los derechos reservados; http://www.microsoft.com/sql/support;1"
+              description="Destino de archivo plano"
+              localeId="3082"
+              name="Destino de archivo Especie">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Especifica si los datos sobrescriben el archivo de destino o se anexan al mismo."
+                  name="Overwrite">true</property>
+                <property
+                  dataType="System.Null"
+                  description="Especifica el texto para escribir en el archivo de destino antes de escribir ningún dato."
+                  expressionType="Notify"
+                  name="Header" />
+                <property
+                  dataType="System.Boolean"
+                  description="Cuando el calificador de texto está habilitado, especifica si este contendrá secuencias de escape o no en los datos escritos en el archivo de destino."
+                  name="EscapeQualifier">false</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Exportar CSV Especies\Destino de archivo Especie.Connections[FlatFileConnection]"
+                  connectionManagerID="Package.ConnectionManagers[ExportarEspecies]"
+                  connectionManagerRefId="Package.ConnectionManagers[ExportarEspecies]"
+                  name="FlatFileConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Exportar CSV Especies\Destino de archivo Especie.Inputs[Entrada de destino de archivo plano]"
+                  hasSideEffects="true"
+                  name="Entrada de destino de archivo plano">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Exportar CSV Especies\Destino de archivo Especie.Inputs[Entrada de destino de archivo plano].Columns[idEspecie]"
+                      cachedDataType="i4"
+                      cachedName="idEspecie"
+                      externalMetadataColumnId="Package\Exportar CSV Especies\Destino de archivo Especie.Inputs[Entrada de destino de archivo plano].ExternalColumns[idEspecie]"
+                      lineageId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[idEspecie]" />
+                    <inputColumn
+                      refId="Package\Exportar CSV Especies\Destino de archivo Especie.Inputs[Entrada de destino de archivo plano].Columns[NombreCientifico]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="NombreCientifico"
+                      externalMetadataColumnId="Package\Exportar CSV Especies\Destino de archivo Especie.Inputs[Entrada de destino de archivo plano].ExternalColumns[NombreCientifico]"
+                      lineageId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[NombreCientifico]" />
+                    <inputColumn
+                      refId="Package\Exportar CSV Especies\Destino de archivo Especie.Inputs[Entrada de destino de archivo plano].Columns[NombreVulgar]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="NombreVulgar"
+                      externalMetadataColumnId="Package\Exportar CSV Especies\Destino de archivo Especie.Inputs[Entrada de destino de archivo plano].ExternalColumns[NombreVulgar]"
+                      lineageId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[NombreVulgar]" />
+                    <inputColumn
+                      refId="Package\Exportar CSV Especies\Destino de archivo Especie.Inputs[Entrada de destino de archivo plano].Columns[idTipoEspecie]"
+                      cachedDataType="i4"
+                      cachedName="idTipoEspecie"
+                      externalMetadataColumnId="Package\Exportar CSV Especies\Destino de archivo Especie.Inputs[Entrada de destino de archivo plano].ExternalColumns[idTipoEspecie]"
+                      lineageId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[idTipoEspecie]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Exportar CSV Especies\Destino de archivo Especie.Inputs[Entrada de destino de archivo plano].ExternalColumns[idEspecie]"
+                      dataType="i4"
+                      name="idEspecie" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar CSV Especies\Destino de archivo Especie.Inputs[Entrada de destino de archivo plano].ExternalColumns[NombreCientifico]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="NombreCientifico" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar CSV Especies\Destino de archivo Especie.Inputs[Entrada de destino de archivo plano].ExternalColumns[NombreVulgar]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="NombreVulgar" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar CSV Especies\Destino de archivo Especie.Inputs[Entrada de destino de archivo plano].ExternalColumns[idTipoEspecie]"
+                      dataType="i4"
+                      name="idTipoEspecie" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+            </component>
+            <component
+              refId="Package\Exportar CSV Especies\Origen de OLE DB"
+              componentClassID="Microsoft.OLEDBSource"
+              contactInfo="Origen de OLE DB;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; Todos los derechos reservados; http://www.microsoft.com/sql/support;7"
+              description="Origen de OLE DB"
+              name="Origen de OLE DB"
+              usesDispositions="true"
+              version="7">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="Número de segundos antes de que se agote el tiempo de espera de un comando. Un valor de 0 indica un tiempo de espera infinito."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Especifica el nombre del objeto de base de datos usado para abrir un conjunto de filas."
+                  name="OpenRowset"></property>
+                <property
+                  dataType="System.String"
+                  description="Especifica la variable que contiene el nombre del objeto de base de datos usado para abrir un conjunto de filas."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="Comando SQL para ejecutar."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">SELECT        idEspecie, NombreCientifico, NombreVulgar, idTipoEspecie
+FROM            Especie</property>
+                <property
+                  dataType="System.String"
+                  description="Variable que contiene el comando SQL para ejecutar."
+                  name="SqlCommandVariable"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Especifica la página de códigos de columna para utilizar cuando la información de página de códigos no está disponible en el origen de datos."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Fuerza el uso del valor de la propiedad DefaultCodePage al describir datos de caracteres."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Especifica el modo utilizado para obtener acceso a la base de datos."
+                  name="AccessMode"
+                  typeConverter="AccessMode">2</property>
+                <property
+                  dataType="System.String"
+                  description="Asignaciones entre los parámetros del comando SQL y las variables."
+                  name="ParameterMapping"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Exportar CSV Especies\Origen de OLE DB.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[WinS-Alexis.greenTEC]"
+                  connectionManagerRefId="Package.ConnectionManagers[WinS-Alexis.greenTEC]"
+                  description="La conexión de tiempo de ejecución OLE DB usada para obtener acceso a la base de datos."
+                  name="OleDbConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB]"
+                  name="Salida de origen de OLE DB">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[idEspecie]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversión"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].ExternalColumns[idEspecie]"
+                      lineageId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[idEspecie]"
+                      name="idEspecie"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[NombreCientifico]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversión"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].ExternalColumns[NombreCientifico]"
+                      length="50"
+                      lineageId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[NombreCientifico]"
+                      name="NombreCientifico"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[NombreVulgar]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversión"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].ExternalColumns[NombreVulgar]"
+                      length="50"
+                      lineageId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[NombreVulgar]"
+                      name="NombreVulgar"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[idTipoEspecie]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversión"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].ExternalColumns[idTipoEspecie]"
+                      lineageId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[idTipoEspecie]"
+                      name="idTipoEspecie"
+                      truncationRowDisposition="FailComponent" />
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].ExternalColumns[idEspecie]"
+                      dataType="i4"
+                      name="idEspecie" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].ExternalColumns[NombreCientifico]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="NombreCientifico" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].ExternalColumns[NombreVulgar]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="NombreVulgar" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB].ExternalColumns[idTipoEspecie]"
+                      dataType="i4"
+                      name="idTipoEspecie" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de error de origen de OLE DB]"
+                  isErrorOut="true"
+                  name="Salida de error de origen de OLE DB">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de error de origen de OLE DB].Columns[idEspecie]"
+                      dataType="i4"
+                      lineageId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de error de origen de OLE DB].Columns[idEspecie]"
+                      name="idEspecie" />
+                    <outputColumn
+                      refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de error de origen de OLE DB].Columns[NombreCientifico]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de error de origen de OLE DB].Columns[NombreCientifico]"
+                      name="NombreCientifico" />
+                    <outputColumn
+                      refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de error de origen de OLE DB].Columns[NombreVulgar]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de error de origen de OLE DB].Columns[NombreVulgar]"
+                      name="NombreVulgar" />
+                    <outputColumn
+                      refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de error de origen de OLE DB].Columns[idTipoEspecie]"
+                      dataType="i4"
+                      lineageId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de error de origen de OLE DB].Columns[idTipoEspecie]"
+                      name="idTipoEspecie" />
+                    <outputColumn
+                      refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de error de origen de OLE DB].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de error de origen de OLE DB].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de error de origen de OLE DB].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de error de origen de OLE DB].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+          <paths>
+            <path
+              refId="Package\Exportar CSV Especies.Paths[Salida de origen de OLE DB]"
+              endId="Package\Exportar CSV Especies\Destino de archivo Especie.Inputs[Entrada de destino de archivo plano]"
+              name="Salida de origen de OLE DB"
+              startId="Package\Exportar CSV Especies\Origen de OLE DB.Outputs[Salida de origen de OLE DB]" />
+          </paths>
+        </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Tarea Ejecutar proceso 1"
+      DTS:CreationName="Microsoft.ExecuteProcess"
+      DTS:Description="Tarea Ejecutar proceso"
+      DTS:DTSID="{a0ecc241-2406-4d4e-998f-6425dc726a9f}"
+      DTS:ExecutableType="Microsoft.ExecuteProcess"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Tarea Ejecutar proceso 1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <ExecuteProcessData
+          Executable="C:\Users\cluadmin\Desktop\PROYECTO2\neo4j\JavaCode\Neo4jSpecies\update.bat"
+          WorkingDirectory="C:\Users\cluadmin\Desktop\PROYECTO2\neo4j\JavaCode\Neo4jSpecies"
+          TimeOut="60"
+          TerminateAfterTimeout="False" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:PrecedenceConstraints>
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Restricción]"
+      DTS:CreationName=""
+      DTS:DTSID="{C1B4FFA2-BB9B-422F-9793-A82628166063}"
+      DTS:From="Package\Exportar CSV Especies"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Restricción"
+      DTS:To="Package\Exportar CSV Cadena" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Restricción 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{EBAD7983-E6E6-4D6B-AC4F-BF95CCBBE3B0}"
+      DTS:From="Package\Exportar CSV Cadena"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Restricción 1"
+      DTS:To="Package\Tarea Ejecutar proceso 1" />
+  </DTS:PrecedenceConstraints>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--Esta sección CDATA contiene la información de diseño del paquete. Esta sección incluye información como, por ejemplo, las coordenadas (x,y), el ancho y el alto.-->
+<!--Si edita manualmente esta sección y comete un error, puede eliminarlo. -->
+<!--El paquete podrá cargarse normalmente, pero se perderá la información de diseño anterior y el diseñador reorganizará los elementos automáticamente en la superficie de diseño.-->
+<Objects
+  Version="8">
+  <!--Cada uno de los nodos siguientes contiene propiedades que no afectan al comportamiento en tiempo de ejecución.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="179,42"
+          Id="Package\Exportar CSV Cadena"
+          TopLeft="311,152" />
+        <NodeLayout
+          Size="184,42"
+          Id="Package\Exportar CSV Especies"
+          TopLeft="176,81" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Restricción]"
+          TopLeft="268,123">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="132.5,29"
+              Start="0,0"
+              End="132.5,21.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,10.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,10.5"
+                    Point2="0,14.5"
+                    Point3="4,14.5" />
+                  <mssgle:LineSegment
+                    End="128.5,14.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="128.5,14.5"
+                    Point2="132.5,14.5"
+                    Point3="132.5,18.5" />
+                  <mssgle:LineSegment
+                    End="132.5,21.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="197,42"
+          Id="Package\Tarea Ejecutar proceso 1"
+          TopLeft="565,156" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Restricción 1]"
+          TopLeft="490,175">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="75,0"
+              Start="0,0"
+              End="67.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="67.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+  <TaskHost
+    design-time-name="Package\Exportar CSV Cadena">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="173,42"
+          Id="Package\Exportar CSV Cadena\Origen de OLE DB 1"
+          TopLeft="266,39" />
+        <NodeLayout
+          Size="234,42"
+          Id="Package\Exportar CSV Cadena\Destino de archivo plano Cadena"
+          TopLeft="241,139" />
+        <EdgeLayout
+          Id="Package\Exportar CSV Cadena.Paths[Salida de origen de OLE DB]"
+          TopLeft="355.25,81">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,58"
+              Start="0,0"
+              End="0,50.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,50.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <TaskHost
+    design-time-name="Package\Exportar CSV Especies">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="164,42"
+          Id="Package\Exportar CSV Especies\Origen de OLE DB"
+          TopLeft="207,44" />
+        <NodeLayout
+          Size="205,42"
+          Id="Package\Exportar CSV Especies\Destino de archivo Especie"
+          TopLeft="190,133" />
+        <EdgeLayout
+          Id="Package\Exportar CSV Especies.Paths[Salida de origen de OLE DB]"
+          TopLeft="290.75,86">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,47"
+              Start="0,0"
+              End="0,39.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,39.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Exportar CSV Especies\Origen de OLE DB">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>

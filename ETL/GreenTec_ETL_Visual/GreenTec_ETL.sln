@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "GreenTec_ETL", "GreenTec_ETL\GreenTec_ETL.dtproj", "{A64DC616-D09E-4734-8F81-63153250C93B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A64DC616-D09E-4734-8F81-63153250C93B}.Development|Default.ActiveCfg = Development
+		{A64DC616-D09E-4734-8F81-63153250C93B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98AA8EB5-7611-409A-A44F-3774F2BC0201}
+	EndGlobalSection
+EndGlobal
