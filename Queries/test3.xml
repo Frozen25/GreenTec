@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Provincias>
+  <Provincia>
+    <idProvincia>26</idProvincia>
+    <Nombre>Polis</Nombre>
+    <idPais>16</idPais>
+  </Provincia>
+  <Provincia>
+    <idProvincia>27</idProvincia>
+    <Nombre>Pafos</Nombre>
+    <idPais>16</idPais>
+  </Provincia>
+  <Provincia>
+    <idProvincia>28</idProvincia>
+    <Nombre>Nicosia</Nombre>
+    <idPais>16</idPais>
+  </Provincia>
+</Provincias>
